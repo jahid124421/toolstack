@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://REPLACE-WITH-YOUR-DOMAIN/sitemap.xml
+# When you connect a custom domain, change this line to your domain.
+Sitemap: https://jahid124421.github.io/mastertools/sitemap.xml
