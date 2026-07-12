@@ -65,8 +65,8 @@
     const impl = window.ALL_TOOLS.filter(t => t.impl).length;
     let html = `
       <section class="hero">
-        <h1>The Tool Nexus</h1>
-        <p>One console. Every utility in the known universe. ${totalTools} tools for PDF, images, video, AI, text, code, security and more — running entirely in your browser at light speed. No signup. No uploads. No limits.</p>
+        <h1>Somar's All Free Tools</h1>
+        <p>${totalTools}+ free online tools in one place — PDF, image, video, AI, text, converters, calculators, developer, SEO and security tools. Everything runs entirely in your browser. No signup. No uploads. No limits.</p>
         <div class="hero-stats">
           <div><b>${totalTools}</b> tools online</div>
           <div><b>${window.TOOL_CATEGORIES.length}</b> systems</div>
@@ -138,7 +138,7 @@
   function proPlaceholder(t) {
     return `<div class="coming-soon">
       <h3>⭐ ${esc(t.name)} — Premium tool</h3>
-      <p>${esc(t.desc)} This one needs an AI/server backend (the paid tier of MasterTools).</p>
+      <p>${esc(t.desc)} This one needs an AI/server backend (the paid tier of Somar's All Free Tools).</p>
       <p class="hint">Wire it to an API key or a self-hosted open-weight model, then gate it behind a subscription or higher ad tier.</p>
       <button class="btn" onclick="alert('Hook this button to your backend / checkout.')">Try the demo</button>
     </div>`;
@@ -146,7 +146,7 @@
 
   function renderStatic(page) {
     // NOTE: replace the [BRACKETED] placeholders with your real details before launch.
-    const SITE = "MasterTools";
+    const SITE = "Somar's All Free Tools";
     const EMAIL = "mamunini124@gmail.com";
     const OWNER = "Somar";
     const UPDATED = "July 12, 2026";
