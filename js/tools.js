@@ -1,5 +1,5 @@
 /* ============================================================
-   MasterTools — Tool implementations
+   ToolStack — Tool implementations
    window.TOOL_IMPL[id] = function(mount){ ... }
    Each function renders a working tool into `mount`.
    ============================================================ */
@@ -333,7 +333,7 @@ window.TOOL_IMPL = {};
   };
 
   IMPL["qr-generator"] = (m) => {
-    m.innerHTML = `<label>Text or URL</label><input type="text" id="in" value="https://mastertools.example">
+    m.innerHTML = `<label>Text or URL</label><input type="text" id="in" value="https://toolstack.example">
       <div class="row" style="margin-top:8px"><div><label>Size</label><input type="number" id="sz" value="240" min="80" max="1000"></div></div>
       <button class="btn" id="go">Generate QR</button> <button class="btn secondary small" id="dl">⬇ Download PNG</button>
       <div id="qr" style="margin-top:16px"></div>`;
@@ -841,8 +841,8 @@ window.TOOL_IMPL = {};
   };
 
   IMPL["serp-preview"] = (m) => {
-    m.innerHTML = `<label>Title</label><input type="text" id="t" value="Best Free Online Tools — MasterTools">
-      <label>URL</label><input type="text" id="u" value="https://mastertools.example/tools">
+    m.innerHTML = `<label>Title</label><input type="text" id="t" value="Best Free Online Tools — ToolStack">
+      <label>URL</label><input type="text" id="u" value="https://toolstack.example/tools">
       <label>Description</label><textarea id="d" style="min-height:70px">Hundreds of free online tools in one place.</textarea>
       <div class="output-box" style="background:#fff;color:#000" id="prev"></div>`;
     const upd=()=>{ const t=m.querySelector("#t").value.slice(0,60), d=m.querySelector("#d").value.slice(0,160);

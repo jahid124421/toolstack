@@ -1,5 +1,5 @@
 /* ============================================================
-   MasterTools — Master Catalog (200+ tools)
+   ToolStack — Master Catalog (200+ tools)
    - impl: true  => fully working (implemented in tools.js / tools2.js)
    - pro: false   => premium/paid-equivalent tool (needs a backend)
    Add a tool = 1 entry here + 1 function in tools2.js.

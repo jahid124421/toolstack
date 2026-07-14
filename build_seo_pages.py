@@ -2,7 +2,7 @@
 Generate a rich, genuinely-useful landing page per tool (not thin/templated):
 intro, detailed explanation, step-by-step how-to, real use cases, FAQ, tips,
 related tools and JSON-LD structured data. Also an all-tools hub + sitemap.
-Run from mastertools/:  python build_seo_pages.py
+Run from toolstack/:  python build_seo_pages.py
 """
 import re, html, json
 from pathlib import Path

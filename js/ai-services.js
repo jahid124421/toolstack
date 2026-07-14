@@ -1,5 +1,5 @@
 /**
- * MasterTools AI Services Layer
+ * ToolStack AI Services Layer
  * Provides unified access to free AI APIs with fallback to client-side processing
  */
 

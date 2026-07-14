@@ -1,4 +1,4 @@
-# Netlify deploy config for MasterTools (static site, no build step).
+# Netlify deploy config for ToolStack (static site, no build step).
 [build]
   publish = "."
   command = ""

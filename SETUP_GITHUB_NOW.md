@@ -45,7 +45,7 @@ Press `Win + R`, type `cmd`, press Enter
 ### Step 2.2: Run These Commands
 
 ```bash
-cd mastertools-deploy
+cd ToolStack
 
 git init
 
@@ -91,7 +91,7 @@ It will ask for your GitHub username and password:
 ### Step 3.1: Go to Cloudflare Pages
 
 1. Open: **https://dash.cloudflare.com/pages**
-2. Click your **mastertools** project
+2. Click your **toolstack** project
 
 ### Step 3.2: Connect Git Repository
 
@@ -106,7 +106,7 @@ It will ask for your GitHub username and password:
 
 **Set these EXACT settings:**
 
-- **Project name**: `toolstack` (or keep `mastertools`)
+- **Project name**: `toolstack` (or keep `toolstack`)
 - **Production branch**: `main`
 - **Build command**: (LEAVE EMPTY - don't type anything)
 - **Build output directory**: `/` (just a forward slash)
@@ -144,7 +144,7 @@ It will ask for your GitHub username and password:
 Make a test change:
 
 ```bash
-cd mastertools-deploy
+cd ToolStack
 
 # Add a test comment
 echo "<!-- Auto-deploy test -->" >> index.html
@@ -172,7 +172,7 @@ Wait 2-3 minutes and refresh your site. It should update automatically!
 ## 📋 How to Update Your Site (From Now On)
 
 ```bash
-cd mastertools-deploy
+cd ToolStack
 
 # 1. Make your changes (edit files, add tools, etc.)
 

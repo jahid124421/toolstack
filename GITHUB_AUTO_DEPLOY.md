@@ -10,7 +10,7 @@ Push code to GitHub → Auto-deploy to Cloudflare Pages → No manual work!
 ### 1.1 Create New Repository
 
 1. Go to: **https://github.com/new**
-2. Repository name: `toolstack` (or `mastertools`)
+2. Repository name: `toolstack` (or `toolstack`)
 3. Description: "ToolStack - 207+ Free Online Tools"
 4. Set to **Private** or **Public** (your choice)
 5. **DO NOT** initialize with README, .gitignore, or license
@@ -32,7 +32,7 @@ https://github.com/YOUR_USERNAME/toolstack.git
 Open Command Prompt/Terminal and run:
 
 ```bash
-cd mastertools-deploy
+cd ToolStack
 
 # Initialize git repository
 git init
@@ -62,13 +62,13 @@ git push -u origin main
 ### 3.1 Connect Repository
 
 1. Go to: **https://dash.cloudflare.com/pages**
-2. Click your **mastertools** project
+2. Click your **toolstack** project
 3. Go to **Settings** tab
 4. Scroll to **Build settings** section
 5. Click **Connect to Git**
 6. Select **GitHub**
 7. Authorize Cloudflare (if asked)
-8. Select your repository: `toolstack` or `mastertools`
+8. Select your repository: `toolstack` or `toolstack`
 
 ### 3.2 Configure Build Settings
 
@@ -105,7 +105,7 @@ git push -u origin main
 Make a small change and push to GitHub:
 
 ```bash
-cd mastertools-deploy
+cd ToolStack
 
 # Make a small change (for testing)
 echo "<!-- Test -->" >> index.html
@@ -125,7 +125,7 @@ Wait 2-3 minutes and check your site - it should update automatically!
 ### Every time you want to update your site:
 
 ```bash
-cd mastertools-deploy
+cd ToolStack
 
 # Make your changes (edit files, add tools, etc.)
 

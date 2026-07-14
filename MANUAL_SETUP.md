@@ -5,7 +5,7 @@ The automated script updated all your files, but you need to manually add the cu
 ## Step 1: Add Custom Domain to Cloudflare Pages
 
 1. Go to: https://dash.cloudflare.com/pages
-2. Find your project: **mastertools**
+2. Find your project: **toolstack**
 3. Click on it
 4. Go to **Custom domains** tab
 5. Click **Set up a custom domain**
@@ -23,14 +23,14 @@ The files are already updated with the new domain. Now you need to deploy:
 
 ### Option A: Using Wrangler CLI (Recommended)
 ```bash
-cd mastertools-deploy
+cd ToolStack
 wrangler pages project list
 wrangler pages deploy
 ```
 
 ### Option B: Using Git (If connected to GitHub)
 ```bash
-cd mastertools-deploy
+cd ToolStack
 git add .
 git commit -m "Update domain to toolstack.dpdns.org"
 git push

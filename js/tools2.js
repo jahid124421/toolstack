@@ -1,5 +1,5 @@
 /* ============================================================
-   MasterTools — Tool implementations (batch 2)
+   ToolStack — Tool implementations (batch 2)
    Text, Converters, Generators, Calculators, Math, Health,
    Date/Time, Dev, SEO, Color, Security, Misc, Image extras.
    ============================================================ */
@@ -96,7 +96,7 @@
   IMPL["query-parser"] = (m) => textTool(m,{inLabel:"URL or query string",ph:"https://x.com?a=1&b=hello",btn:"Parse",fn:v=>{ const q=v.includes("?")?v.split("?")[1]:v; const p=new URLSearchParams(q); return [...p.entries()].map(([k,val])=>`${k} = ${val}`).join("\n")||"No parameters."; }});
   IMPL["url-parser"] = (m) => textTool(m,{inLabel:"URL",ph:"https://user@host.com:8080/path?x=1#frag",btn:"Parse",fn:v=>{ const u=new URL(v); return `Protocol: ${u.protocol}\nHost: ${u.host}\nHostname: ${u.hostname}\nPort: ${u.port||"(default)"}\nPath: ${u.pathname}\nQuery: ${u.search}\nHash: ${u.hash}`; }});
   IMPL["text-to-speech"] = (m) => {
-    m.innerHTML=`<label>Text to read aloud</label><textarea id="in">Hello from MasterTools!</textarea>
+    m.innerHTML=`<label>Text to read aloud</label><textarea id="in">Hello from ToolStack!</textarea>
       <div class="row"><div><label>Voice</label><select id="voice"></select></div><div><label>Rate</label><input type="range" id="rate" min="0.5" max="2" step="0.1" value="1"></div></div>
       <button class="btn" id="go">🔊 Speak</button><button class="btn secondary" id="stop">Stop</button>`;
     const sel=m.querySelector("#voice"); const fill=()=>{ sel.innerHTML=speechSynthesis.getVoices().map((v,i)=>`<option value="${i}">${v.name} (${v.lang})</option>`).join(""); };
@@ -476,7 +476,7 @@
     let img; dz(m, async f=>{ img=await window.__mtHelpers.loadImage(f); m.querySelector("#w").value=Math.min(200,img.width); m.querySelector("#h").value=Math.min(200,img.height); m.querySelector("#res").innerHTML=`<p class="hint">Loaded ${img.width}×${img.height}. Set crop box and download.</p>`; });
     m.querySelector("#go").addEventListener("click",()=>{ if(!img)return alert("Upload first."); const c=document.createElement("canvas"),w=+m.querySelector("#w").value,h=+m.querySelector("#h").value; c.width=w;c.height=h; c.getContext("2d").drawImage(img,+m.querySelector("#x").value,+m.querySelector("#y").value,w,h,0,0,w,h); c.toBlob(b=>download("cropped.png",b)); }); };
   IMPL["image-watermark"] = (m) => { m.innerHTML=`<div class="dropzone">📁 Drop an image<input type="file" accept="image/*" hidden></div>
-    <label style="margin-top:10px">Watermark text</label><input type="text" id="wm" value="© MasterTools">
+    <label style="margin-top:10px">Watermark text</label><input type="text" id="wm" value="© ToolStack">
     <canvas id="cv" style="max-width:100%;margin-top:12px;border-radius:10px;display:none"></canvas><br><button class="btn" id="dl" style="display:none">⬇ Download</button>`;
     let img; const cv=m.querySelector("#cv"),ctx=cv.getContext("2d");
     const draw=()=>{ if(!img)return; cv.width=img.width;cv.height=img.height; ctx.drawImage(img,0,0); ctx.font=`${img.width/20}px sans-serif`; ctx.fillStyle="rgba(255,255,255,.5)"; ctx.textAlign="right"; ctx.fillText(m.querySelector("#wm").value,img.width-20,img.height-20); };

@@ -1,4 +1,4 @@
-# 🧰 MasterTools — Every tool in one box
+# 🧰 ToolStack — Every tool in one box
 
 An ad-supported "all-in-one toolbox" website (like 10015.io / iLovePDF-style utility hubs).
 Hundreds of tools organized by category, most running **100% in the browser** (zero server cost),
@@ -20,7 +20,7 @@ No build step. Pure HTML/CSS/vanilla JS. Only external scripts: `qrcodejs` (QR t
 
 ## Project structure
 ```
-mastertools/
+toolstack/
 ├── index.html          # shell: header, search, ad slots, footer
 ├── css/styles.css      # theme (light/dark), layout, components
 └── js/

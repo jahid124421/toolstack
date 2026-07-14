@@ -24,7 +24,7 @@ Your domain `toolstack.qd.je` is ready to be connected. Here's what you need to 
 - Save changes
 
 ### 3. Configure GitHub Secrets
-- Go to: https://github.com/jahid124421/mastertools/settings/secrets/actions
+- Go to: https://github.com/jahid124421/toolstack/settings/secrets/actions
 - Add these secrets:
   - `CLOUDFLARE_API_TOKEN` = your token
   - `CLOUDFLARE_ACCOUNT_ID` = your account ID
@@ -43,7 +43,7 @@ python setup_domain.py
 ```
 
 ### 5. Or Use GitHub Actions (Easier!)
-- Go to: https://github.com/jahid124421/mastertools/actions
+- Go to: https://github.com/jahid124421/toolstack/actions
 - Click "SEO Refresh + Deploy"
 - Click "Run workflow"
 - Select "setup-domain" job

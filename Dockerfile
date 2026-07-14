@@ -1,4 +1,4 @@
-# MasterTools — static site served by nginx, ready for Railway / any Docker host.
+# ToolStack — static site served by nginx, ready for Railway / any Docker host.
 FROM nginx:alpine
 
 # Copy the website into nginx's web root (Dockerfile, deploy/, .git are excluded via .dockerignore)

@@ -1,5 +1,5 @@
 /* ============================================================
-   MasterTools — UNLOCKED premium tools (batch 3)
+   ToolStack — UNLOCKED premium tools (batch 3)
    Every "PRO" tool now runs client-side (libs lazy-loaded from CDN).
    A few that need real server data (SSL, backlinks) do the max
    possible in-browser and say so honestly.
@@ -98,7 +98,7 @@
   IMPL["esign-pdf"] = (m) => loadPdfTool(m, "Drop a PDF to sign",
     async (file,m,st)=>{ const L=await pdflib(); const doc=await L.PDFDocument.load(await file.arrayBuffer(),{ignoreEncryption:true}); const font=await doc.embedFont(L.StandardFonts.HelveticaBoldOblique);
       const sig=m.querySelector("#sig").value||"Signature"; const last=doc.getPages()[doc.getPageCount()-1];
-      last.drawText(sig,{x:60,y:70,size:26,font,color:L.rgb(0,0,.55)}); last.drawLine({start:{x:60,y:64},end:{x:260,y:64},thickness:1,color:L.rgb(0,0,0)}); last.drawText("Signed via MasterTools · "+new Date().toLocaleDateString(),{x:60,y:50,size:8,font,color:L.rgb(.4,.4,.4)});
+      last.drawText(sig,{x:60,y:70,size:26,font,color:L.rgb(0,0,.55)}); last.drawLine({start:{x:60,y:64},end:{x:260,y:64},thickness:1,color:L.rgb(0,0,0)}); last.drawText("Signed via ToolStack · "+new Date().toLocaleDateString(),{x:60,y:50,size:8,font,color:L.rgb(.4,.4,.4)});
       download("signed.pdf", new Blob([await doc.save()],{type:"application/pdf"})); st.innerHTML='<span class="result-ok">✓ Signed & downloaded.</span>'; },
     `<label>Your signature (typed)</label><input type="text" id="sig" value="Jane Doe">`);
   IMPL["split-pdf"] = (m) => loadPdfTool(m, "Drop a PDF to extract a page range",

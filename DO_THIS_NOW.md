@@ -33,7 +33,7 @@ https://github.com/YOUR_USERNAME/toolstack.git
 **Run these commands ONE BY ONE:**
 
 ```bash
-cd mastertools-deploy
+cd ToolStack
 ```
 
 ```bash
@@ -74,7 +74,7 @@ git push -u origin main
 
 **Go to:** https://dash.cloudflare.com/pages
 
-1. Click your **mastertools** project
+1. Click your **toolstack** project
 2. Click **Settings** tab
 3. Scroll to **Build settings**
 4. Click **Connect to Git**
@@ -100,7 +100,7 @@ You should now see "ToolStack" everywhere!
 
 **To update your site:**
 ```bash
-cd mastertools-deploy
+cd ToolStack
 git add .
 git commit -m "Your changes"
 git push

@@ -1,11 +1,11 @@
 # 🌐 Custom Domain Setup Guide
 
-This guide will help you connect your custom domain `toolstack.qd.je` to your MasterTools website.
+This guide will help you connect your custom domain `toolstack.qd.je` to your ToolStack website.
 
 ## Prerequisites
 
 - [x] Cloudflare account (you already have this)
-- [x] GitHub repository (jahid124421/mastertools)
+- [x] GitHub repository (jahid124421/toolstack)
 - [x] DigitalPlat domain registered (toolstack.qd.je)
 - [ ] Cloudflare API token (we'll create this)
 - [ ] Cloudflare Account ID (we'll find this)
@@ -39,7 +39,7 @@ This guide will help you connect your custom domain `toolstack.qd.je` to your Ma
 
 ## Step 3: Configure GitHub Secrets
 
-1. Go to your GitHub repo: https://github.com/jahid124421/mastertools
+1. Go to your GitHub repo: https://github.com/jahid124421/toolstack
 2. Click **Settings** → **Secrets and variables** → **Actions**
 3. Click **New repository secret** and add these:
 
@@ -113,7 +113,7 @@ This will automatically:
 
 ### Option B: Run via GitHub Actions (Automated)
 
-1. Go to your GitHub repo: https://github.com/jahid124421/mastertools
+1. Go to your GitHub repo: https://github.com/jahid124421/toolstack
 2. Click **Actions** → **SEO Refresh + Deploy**
 3. Click **Run workflow** → **Run workflow**
 4. The workflow will automatically set up your domain
@@ -124,7 +124,7 @@ This will automatically:
 
 1. **Check Cloudflare Pages:**
    - Go to https://dash.cloudflare.com/pages
-   - Find `mastertools` project
+   - Find `toolstack` project
    - Click **Custom domains**
    - You should see: `toolstack.qd.je` (status: Active)
 
@@ -213,7 +213,7 @@ Edit `build_seo_pages.py` and run `python build_seo_pages.py` to regenerate.
 
 - **DigitalPlat Support:** https://discord.gg/ma4RZzMmVW
 - **Cloudflare Docs:** https://developers.cloudflare.com
-- **GitHub Issues:** https://github.com/jahid124421/mastertools/issues
+- **GitHub Issues:** https://github.com/jahid124421/toolstack/issues
 
 ---
 
@@ -223,9 +223,9 @@ Edit `build_seo_pages.py` and run `python build_seo_pages.py` to regenerate.
 |------|-------|
 | Domain | `toolstack.qd.je` |
 | Site URL | `https://toolstack.qd.je` |
-| Cloudflare Pages Project | `mastertools` |
+| Cloudflare Pages Project | `toolstack` |
 | IndexNow Key | `399bcfb85d253200d756fa23a6a13fc1` |
-| GitHub Repo | `jahid124421/mastertools` |
+| GitHub Repo | `jahid124421/toolstack` |
 
 ---
 

@@ -10,7 +10,7 @@
 
 ### Method 1: Wrangler CLI (Fastest)
 ```bash
-cd mastertools-deploy
+cd ToolStack
 
 # Login to Cloudflare (opens browser)
 wrangler login
@@ -21,14 +21,14 @@ wrangler pages deploy
 
 ### Method 2: Cloudflare Dashboard (Easiest)
 1. Go to: https://dash.cloudflare.com/pages
-2. Click your **mastertools** project
+2. Click your **toolstack** project
 3. Click **Deployments** → **Create deployment**
-4. Drag and drop the entire `mastertools-deploy` folder
+4. Drag and drop the entire `ToolStack` folder
 5. Wait 2-3 minutes for deployment
 
 ### Method 3: Git (If connected to GitHub)
 ```bash
-cd mastertools-deploy
+cd ToolStack
 git add .
 git commit -m "Update domain to toolstack.dpdns.org"
 git push
@@ -39,7 +39,7 @@ git push
 After deploying, you MUST add the custom domain:
 
 1. Go to: https://dash.cloudflare.com/pages
-2. Click your **mastertools** project
+2. Click your **toolstack** project
 3. Go to **Custom domains** tab
 4. Click **Set up a custom domain**
 5. Enter: `toolstack.dpdns.org`

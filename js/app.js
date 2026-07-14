@@ -1,5 +1,5 @@
 /* ============================================================
-   MasterTools — App shell: routing, rendering, search, theme
+   ToolStack — App shell: routing, rendering, search, theme
    ============================================================ */
 (function () {
   const app = document.getElementById("app");

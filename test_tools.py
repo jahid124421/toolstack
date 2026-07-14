@@ -27,7 +27,7 @@ def check_tool(tool_dir):
         return issues
     
     # Check for old domain references
-    old_domain = "mastertools-501.pages.dev"
+    old_domain = "toolstack-501.pages.dev"
     if old_domain in content:
         issues.append(f"Contains old domain: {old_domain}")
     

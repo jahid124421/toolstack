@@ -1,4 +1,4 @@
-# 🤖 24/7 AI Agents to Run MasterTools (and other things)
+# 🤖 24/7 AI Agents to Run ToolStack (and other things)
 
 Research from GitHub + agent directories (2026). These are open-source agents you can **self-host**
 so they run continuously — building tools, monitoring the site, generating content, and handling ops
@@ -28,7 +28,7 @@ These give agents persistent memory + scheduled execution — exactly what "24/7
   24/7 on your own PC. Interesting for a solo operator wanting a virtual team.
 
 ## 2. Autonomous coding agents (to build & maintain the website)
-Point these at the MasterTools repo to add tools, fix bugs, and ship features on a schedule.
+Point these at the ToolStack repo to add tools, fix bugs, and ship features on a schedule.
 
 - **[keithbooher/autonomous-dev-agents-system](https://github.com/keithbooher/autonomous-dev-agents-system)**
   — Multi-agent Claude Code system: PRD → TRD → code pipeline, agents take tasks from a backlog,
@@ -59,7 +59,7 @@ for automations), and **Ollama** to run open-weight models locally for near-zero
 
 ---
 
-## Suggested 24/7 setup for MasterTools (cheap + supervised)
+## Suggested 24/7 setup for ToolStack (cheap + supervised)
 1. **Builder agent** — `nerve` or `CodeGeass` running an Aider/Claude Code loop against the repo on a
    cron: each night, pick the next "roadmap" tool from `tools-data.js`, implement it, open a PR for you to review.
 2. **Content/SEO agent** — a scheduled web agent that finds trending tool keywords + writes a short

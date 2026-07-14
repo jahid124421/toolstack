@@ -1,6 +1,6 @@
-# 🚀 Deploying MasterTools
+# 🚀 Deploying ToolStack
 
-MasterTools is a **static site** — pure HTML/CSS/JS, no build step, no server code.
+ToolStack is a **static site** — pure HTML/CSS/JS, no build step, no server code.
 It runs entirely in the browser. You can host it free on any static platform.
 
 ## What's in the box (launch-ready)
@@ -38,7 +38,7 @@ It runs entirely in the browser. You can host it free on any static platform.
 ```bash
 git init
 git add .
-git commit -m "MasterTools launch"
+git commit -m "ToolStack launch"
 git branch -M main
 git remote add origin <your-repo-url>
 git push -u origin main

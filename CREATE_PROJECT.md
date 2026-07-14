@@ -15,7 +15,7 @@
 
 **Option A: Upload Assets (Easiest - Recommended)**
 1. Click **Upload assets**
-2. Drag & drop the entire **`mastertools-deploy`** folder
+2. Drag & drop the entire **`ToolStack`** folder
 3. Click **Deploy site**
 4. Wait 2-3 minutes
 
@@ -30,8 +30,8 @@
 ### Step 2: Name Your Project
 
 When creating the project:
-- **Project name**: `mastertools` (or any name you prefer)
-- This will create a URL like: `mastertools.pages.dev`
+- **Project name**: `toolstack` (or any name you prefer)
+- This will create a URL like: `toolstack.pages.dev`
 
 ### Step 3: Add Custom Domain
 
@@ -58,7 +58,7 @@ After deployment succeeds:
 **After Step 1:**
 ```
 ✓ Deployment successful
-  - URL: https://mastertools.pages.dev
+  - URL: https://toolstack.pages.dev
   - Status: Active
 ```
 
@@ -79,7 +79,7 @@ Custom domains:
 - Follow Step 1 above
 
 ### Project creation fails
-- Make sure you're uploading the `mastertools-deploy` folder
+- Make sure you're uploading the `ToolStack` folder
 - Check that index.html exists in the root of the folder
 - Try uploading again
 
@@ -92,7 +92,7 @@ Custom domains:
 
 ## Quick Summary
 
-1. **Create project**: https://dash.cloudflare.com/pages → Create a project → Upload assets → Select `mastertools-deploy` folder → Deploy
+1. **Create project**: https://dash.cloudflare.com/pages → Create a project → Upload assets → Select `ToolStack` folder → Deploy
 2. **Add domain**: Custom domains tab → Set up custom domain → Enter `toolstack.dpdns.org` → Activate
 3. **Wait**: 2-5 minutes
 4. **Visit**: https://toolstack.dpdns.org
@@ -101,7 +101,7 @@ Custom domains:
 
 ## Files to Upload
 
-Make sure you're uploading the **contents** of the `mastertools-deploy` folder, not the folder itself.
+Make sure you're uploading the **contents** of the `ToolStack` folder, not the folder itself.
 
 **Correct structure after upload:**
 ```
@@ -118,7 +118,7 @@ Make sure you're uploading the **contents** of the `mastertools-deploy` folder, 
 **NOT this:**
 ```
 /
-└── mastertools-deploy/
+└── ToolStack/
     ├── index.html
     ├── sitemap.xml
     └── ...

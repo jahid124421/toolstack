@@ -34,7 +34,7 @@ SITE_URL = f"https://{DOMAIN}"
 DIGITALPLAT_API_KEY = os.environ.get("DIGITALPLAT_API_KEY", "")
 CLOUDFLARE_API_TOKEN = os.environ.get("CLOUDFLARE_API_TOKEN", "")
 CLOUDFLARE_ACCOUNT_ID = os.environ.get("CLOUDFLARE_ACCOUNT_ID", "")
-PAGES_PROJECT = "mastertools"
+PAGES_PROJECT = "toolstack"
 
 def check_env():
     """Check required environment variables"""
@@ -259,7 +259,7 @@ def update_site_config():
     if build_script.exists():
         content = build_script.read_text(encoding="utf-8")
         content = content.replace(
-            'SITE = "https://mastertools-501.pages.dev"',
+            'SITE = "https://toolstack-501.pages.dev"',
             f'SITE = "{SITE_URL}"'
         )
         build_script.write_text(content, encoding="utf-8")
@@ -270,7 +270,7 @@ def update_site_config():
     if sitemap.exists():
         content = sitemap.read_text(encoding="utf-8")
         content = content.replace(
-            "https://mastertools-501.pages.dev",
+            "https://toolstack-501.pages.dev",
             SITE_URL
         )
         sitemap.write_text(content, encoding="utf-8")
@@ -281,7 +281,7 @@ def update_site_config():
     if index.exists():
         content = index.read_text(encoding="utf-8")
         content = content.replace(
-            'https://mastertools-501.pages.dev/',
+            'https://toolstack-501.pages.dev/',
             f"{SITE_URL}/"
         )
         index.write_text(content, encoding="utf-8")

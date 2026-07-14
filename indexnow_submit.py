@@ -12,7 +12,7 @@ import sys
 from pathlib import Path
 
 HERE = Path(__file__).parent
-SITE = "https://mastertools-501.pages.dev"
+SITE = "https://toolstack-501.pages.dev"
 INDEXNOW_KEY = "399bcfb85d253200d756fa23a6a13fc1"
 INDEXNOW_URL = "https://api.indexnow.org/IndexNow"
 
@@ -115,6 +115,6 @@ if __name__ == "__main__":
     print("=" * 60)
     print()
     print("Next steps:")
-    print("  1. Verify the key file is deployed at https://mastertools-501.pages.dev/<key>.txt")
+    print("  1. Verify the key file is deployed at https://toolstack-501.pages.dev/<key>.txt")
     print("  2. Submit sitemap to Google Search Console manually")
     print("  3. Monitor Bing Webmaster Tools for crawl status")

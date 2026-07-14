@@ -7,7 +7,7 @@ Failed: 207
 Issues:
 
 add-line-numbers:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/word-counter/
   - Potential broken link: ../../tools/case-converter/
@@ -19,7 +19,7 @@ add-line-numbers:
   - Potential broken link: ../../tools/remove-extra-spaces/
 
 add-subtract-days:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/countdown-timer/
   - Potential broken link: ../../tools/days-until/
@@ -31,7 +31,7 @@ add-subtract-days:
   - Potential broken link: ../../tools/birthday-countdown/
 
 aes-encrypt:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/caesar-cipher/
   - Potential broken link: ../../tools/rot13/
@@ -41,7 +41,7 @@ aes-encrypt:
   - Potential broken link: ../../tools/ssl-checker/
 
 age-calc:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/percentage-calc/
   - Potential broken link: ../../tools/percentage-change/
@@ -53,7 +53,7 @@ age-calc:
   - Potential broken link: ../../tools/sales-tax/
 
 ai-detector:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/word-counter/
   - Potential broken link: ../../tools/case-converter/
@@ -65,7 +65,7 @@ ai-detector:
   - Potential broken link: ../../tools/remove-extra-spaces/
 
 api-key-generator:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/password-generator/
   - Potential broken link: ../../tools/qr-generator/
@@ -77,7 +77,7 @@ api-key-generator:
   - Potential broken link: ../../tools/pin-generator/
 
 average-calc:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/percentage-calc/
   - Potential broken link: ../../tools/percentage-change/
@@ -89,7 +89,7 @@ average-calc:
   - Potential broken link: ../../tools/sales-tax/
 
 background-remover:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/image-compressor/
   - Potential broken link: ../../tools/image-resizer/
@@ -101,7 +101,7 @@ background-remover:
   - Potential broken link: ../../tools/circle-crop/
 
 backlink-checker:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/meta-generator/
   - Potential broken link: ../../tools/keyword-density/
@@ -113,7 +113,7 @@ backlink-checker:
   - Potential broken link: ../../tools/htaccess-redirect/
 
 barcode-generator:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/password-generator/
   - Potential broken link: ../../tools/qr-generator/
@@ -125,7 +125,7 @@ barcode-generator:
   - Potential broken link: ../../tools/api-key-generator/
 
 base-n-log:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/prime-checker/
   - Potential broken link: ../../tools/factorial-calc/
@@ -137,7 +137,7 @@ base-n-log:
   - Potential broken link: ../../tools/ratio-calc/
 
 base64:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/url-encode/
   - Potential broken link: ../../tools/html-encode/
@@ -149,7 +149,7 @@ base64:
   - Potential broken link: ../../tools/number-base/
 
 base64-to-image:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/image-compressor/
   - Potential broken link: ../../tools/image-resizer/
@@ -161,7 +161,7 @@ base64-to-image:
   - Potential broken link: ../../tools/pixelate-image/
 
 bcrypt-generator:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/aes-encrypt/
   - Potential broken link: ../../tools/caesar-cipher/
@@ -171,7 +171,7 @@ bcrypt-generator:
   - Potential broken link: ../../tools/ssl-checker/
 
 binary-to-text:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/word-counter/
   - Potential broken link: ../../tools/case-converter/
@@ -183,7 +183,7 @@ binary-to-text:
   - Potential broken link: ../../tools/remove-extra-spaces/
 
 birthday-countdown:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/countdown-timer/
   - Potential broken link: ../../tools/days-until/
@@ -195,7 +195,7 @@ birthday-countdown:
   - Potential broken link: ../../tools/work-hours/
 
 bmi-calc:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/bmr-calc/
   - Potential broken link: ../../tools/tdee-calc/
@@ -207,7 +207,7 @@ bmi-calc:
   - Potential broken link: ../../tools/one-rep-max/
 
 bmr-calc:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/bmi-calc/
   - Potential broken link: ../../tools/tdee-calc/
@@ -219,7 +219,7 @@ bmr-calc:
   - Potential broken link: ../../tools/one-rep-max/
 
 body-fat:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/bmi-calc/
   - Potential broken link: ../../tools/bmr-calc/
@@ -231,7 +231,7 @@ body-fat:
   - Potential broken link: ../../tools/one-rep-max/
 
 border-radius:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/color-picker/
   - Potential broken link: ../../tools/gradient-generator/
@@ -242,7 +242,7 @@ border-radius:
   - Potential broken link: ../../tools/color-blindness/
 
 browser-info:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/notepad/
   - Potential broken link: ../../tools/todo-list/
@@ -254,7 +254,7 @@ browser-info:
   - Potential broken link: ../../tools/whats-my-ip/
 
 business-name:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/password-generator/
   - Potential broken link: ../../tools/qr-generator/
@@ -266,7 +266,7 @@ business-name:
   - Potential broken link: ../../tools/pin-generator/
 
 caesar-cipher:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/aes-encrypt/
   - Potential broken link: ../../tools/rot13/
@@ -276,7 +276,7 @@ caesar-cipher:
   - Potential broken link: ../../tools/ssl-checker/
 
 calorie-calc:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/bmi-calc/
   - Potential broken link: ../../tools/bmr-calc/
@@ -288,7 +288,7 @@ calorie-calc:
   - Potential broken link: ../../tools/one-rep-max/
 
 case-converter:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/word-counter/
   - Potential broken link: ../../tools/text-diff/
@@ -300,7 +300,7 @@ case-converter:
   - Potential broken link: ../../tools/remove-line-breaks/
 
 circle-crop:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/image-compressor/
   - Potential broken link: ../../tools/image-resizer/
@@ -312,7 +312,7 @@ circle-crop:
   - Potential broken link: ../../tools/pixelate-image/
 
 clip-maker:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/reel-transcriber/
   - Potential broken link: ../../tools/video-downloader/
@@ -324,7 +324,7 @@ clip-maker:
   - Potential broken link: ../../tools/engagement-rate/
 
 coin-flip:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/notepad/
   - Potential broken link: ../../tools/todo-list/
@@ -336,7 +336,7 @@ coin-flip:
   - Potential broken link: ../../tools/browser-info/
 
 collage-maker:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/image-compressor/
   - Potential broken link: ../../tools/image-resizer/
@@ -348,7 +348,7 @@ collage-maker:
   - Potential broken link: ../../tools/circle-crop/
 
 color-blindness:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/color-picker/
   - Potential broken link: ../../tools/gradient-generator/
@@ -359,7 +359,7 @@ color-blindness:
   - Potential broken link: ../../tools/css-triangle/
 
 color-code-dev:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/regex-tester/
   - Potential broken link: ../../tools/markdown-preview/
@@ -371,7 +371,7 @@ color-code-dev:
   - Potential broken link: ../../tools/cron-generator/
 
 color-converter:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/base64/
   - Potential broken link: ../../tools/url-encode/
@@ -383,7 +383,7 @@ color-converter:
   - Potential broken link: ../../tools/json-to-yaml/
 
 color-from-image:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/image-compressor/
   - Potential broken link: ../../tools/image-resizer/
@@ -395,7 +395,7 @@ color-from-image:
   - Potential broken link: ../../tools/circle-crop/
 
 color-picker:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/gradient-generator/
   - Potential broken link: ../../tools/contrast-checker/
@@ -406,7 +406,7 @@ color-picker:
   - Potential broken link: ../../tools/color-blindness/
 
 compound-interest:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/percentage-calc/
   - Potential broken link: ../../tools/percentage-change/
@@ -418,7 +418,7 @@ compound-interest:
   - Potential broken link: ../../tools/markup-calc/
 
 compress-pdf:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/merge-pdf/
   - Potential broken link: ../../tools/split-pdf/
@@ -430,7 +430,7 @@ compress-pdf:
   - Potential broken link: ../../tools/word-to-pdf/
 
 contrast-checker:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/color-picker/
   - Potential broken link: ../../tools/gradient-generator/
@@ -441,7 +441,7 @@ contrast-checker:
   - Potential broken link: ../../tools/color-blindness/
 
 count-letters:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/word-counter/
   - Potential broken link: ../../tools/case-converter/
@@ -453,7 +453,7 @@ count-letters:
   - Potential broken link: ../../tools/remove-extra-spaces/
 
 countdown-timer:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/days-until/
   - Potential broken link: ../../tools/add-subtract-days/
@@ -465,7 +465,7 @@ countdown-timer:
   - Potential broken link: ../../tools/birthday-countdown/
 
 cron-generator:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/regex-tester/
   - Potential broken link: ../../tools/markdown-preview/
@@ -477,7 +477,7 @@ cron-generator:
   - Potential broken link: ../../tools/text-to-slug/
 
 css-minify:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/regex-tester/
   - Potential broken link: ../../tools/markdown-preview/
@@ -489,7 +489,7 @@ css-minify:
   - Potential broken link: ../../tools/text-to-slug/
 
 css-triangle:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/color-picker/
   - Potential broken link: ../../tools/gradient-generator/
@@ -500,7 +500,7 @@ css-triangle:
   - Potential broken link: ../../tools/color-blindness/
 
 csv-to-json:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/base64/
   - Potential broken link: ../../tools/url-encode/
@@ -512,7 +512,7 @@ csv-to-json:
   - Potential broken link: ../../tools/number-base/
 
 currency-converter:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/base64/
   - Potential broken link: ../../tools/url-encode/
@@ -524,7 +524,7 @@ currency-converter:
   - Potential broken link: ../../tools/json-to-yaml/
 
 date-diff:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/percentage-calc/
   - Potential broken link: ../../tools/percentage-change/
@@ -536,7 +536,7 @@ date-diff:
   - Potential broken link: ../../tools/sales-tax/
 
 days-until:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/countdown-timer/
   - Potential broken link: ../../tools/add-subtract-days/
@@ -548,7 +548,7 @@ days-until:
   - Potential broken link: ../../tools/birthday-countdown/
 
 dice-roller:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/notepad/
   - Potential broken link: ../../tools/todo-list/
@@ -560,7 +560,7 @@ dice-roller:
   - Potential broken link: ../../tools/browser-info/
 
 diff-checker:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/regex-tester/
   - Potential broken link: ../../tools/markdown-preview/
@@ -572,7 +572,7 @@ diff-checker:
   - Potential broken link: ../../tools/cron-generator/
 
 discount-calc:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/percentage-calc/
   - Potential broken link: ../../tools/percentage-change/
@@ -584,7 +584,7 @@ discount-calc:
   - Potential broken link: ../../tools/sales-tax/
 
 engagement-rate:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/reel-transcriber/
   - Potential broken link: ../../tools/video-downloader/
@@ -596,7 +596,7 @@ engagement-rate:
   - Potential broken link: ../../tools/twitter-char-counter/
 
 escape-string:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/regex-tester/
   - Potential broken link: ../../tools/markdown-preview/
@@ -608,7 +608,7 @@ escape-string:
   - Potential broken link: ../../tools/cron-generator/
 
 esign-pdf:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/compress-pdf/
   - Potential broken link: ../../tools/merge-pdf/
@@ -620,7 +620,7 @@ esign-pdf:
   - Potential broken link: ../../tools/pdf-to-word/
 
 excel-to-pdf:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/compress-pdf/
   - Potential broken link: ../../tools/merge-pdf/
@@ -632,7 +632,7 @@ excel-to-pdf:
   - Potential broken link: ../../tools/pdf-to-word/
 
 exif-viewer:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/image-compressor/
   - Potential broken link: ../../tools/image-resizer/
@@ -644,7 +644,7 @@ exif-viewer:
   - Potential broken link: ../../tools/circle-crop/
 
 factorial-calc:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/prime-checker/
   - Potential broken link: ../../tools/gcd-lcm/
@@ -656,7 +656,7 @@ factorial-calc:
   - Potential broken link: ../../tools/random-picker-num/
 
 fake-credit-card:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/password-generator/
   - Potential broken link: ../../tools/qr-generator/
@@ -668,7 +668,7 @@ fake-credit-card:
   - Potential broken link: ../../tools/pin-generator/
 
 fake-tweet:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/reel-transcriber/
   - Potential broken link: ../../tools/video-downloader/
@@ -680,7 +680,7 @@ fake-tweet:
   - Potential broken link: ../../tools/twitter-char-counter/
 
 fancy-text:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/password-generator/
   - Potential broken link: ../../tools/qr-generator/
@@ -692,7 +692,7 @@ fancy-text:
   - Potential broken link: ../../tools/pin-generator/
 
 favicon-generator:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/image-compressor/
   - Potential broken link: ../../tools/image-resizer/
@@ -704,7 +704,7 @@ favicon-generator:
   - Potential broken link: ../../tools/circle-crop/
 
 find-replace:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/word-counter/
   - Potential broken link: ../../tools/case-converter/
@@ -716,7 +716,7 @@ find-replace:
   - Potential broken link: ../../tools/remove-line-breaks/
 
 fraction-calc:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/prime-checker/
   - Potential broken link: ../../tools/factorial-calc/
@@ -728,7 +728,7 @@ fraction-calc:
   - Potential broken link: ../../tools/random-picker-num/
 
 fuel-cost:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/percentage-calc/
   - Potential broken link: ../../tools/percentage-change/
@@ -740,7 +740,7 @@ fuel-cost:
   - Potential broken link: ../../tools/sales-tax/
 
 gcd-lcm:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/prime-checker/
   - Potential broken link: ../../tools/factorial-calc/
@@ -752,7 +752,7 @@ gcd-lcm:
   - Potential broken link: ../../tools/random-picker-num/
 
 gpa-calc:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/percentage-calc/
   - Potential broken link: ../../tools/percentage-change/
@@ -764,7 +764,7 @@ gpa-calc:
   - Potential broken link: ../../tools/sales-tax/
 
 gradient-generator:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/color-picker/
   - Potential broken link: ../../tools/contrast-checker/
@@ -775,7 +775,7 @@ gradient-generator:
   - Potential broken link: ../../tools/color-blindness/
 
 grammar-checker:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/word-counter/
   - Potential broken link: ../../tools/case-converter/
@@ -787,7 +787,7 @@ grammar-checker:
   - Potential broken link: ../../tools/remove-extra-spaces/
 
 hash-generator:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/password-generator/
   - Potential broken link: ../../tools/qr-generator/
@@ -799,7 +799,7 @@ hash-generator:
   - Potential broken link: ../../tools/pin-generator/
 
 hashtag-generator:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/reel-transcriber/
   - Potential broken link: ../../tools/video-downloader/
@@ -811,7 +811,7 @@ hashtag-generator:
   - Potential broken link: ../../tools/twitter-char-counter/
 
 heart-rate-zone:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/bmi-calc/
   - Potential broken link: ../../tools/bmr-calc/
@@ -823,7 +823,7 @@ heart-rate-zone:
   - Potential broken link: ../../tools/water-intake/
 
 htaccess-redirect:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/meta-generator/
   - Potential broken link: ../../tools/keyword-density/
@@ -835,7 +835,7 @@ htaccess-redirect:
   - Potential broken link: ../../tools/backlink-checker/
 
 html-encode:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/base64/
   - Potential broken link: ../../tools/url-encode/
@@ -847,7 +847,7 @@ html-encode:
   - Potential broken link: ../../tools/number-base/
 
 html-minify:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/regex-tester/
   - Potential broken link: ../../tools/markdown-preview/
@@ -859,7 +859,7 @@ html-minify:
   - Potential broken link: ../../tools/text-to-slug/
 
 htpasswd:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/aes-encrypt/
   - Potential broken link: ../../tools/caesar-cipher/
@@ -869,7 +869,7 @@ htpasswd:
   - Potential broken link: ../../tools/ssl-checker/
 
 http-status:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/regex-tester/
   - Potential broken link: ../../tools/markdown-preview/
@@ -881,7 +881,7 @@ http-status:
   - Potential broken link: ../../tools/cron-generator/
 
 ideal-weight:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/bmi-calc/
   - Potential broken link: ../../tools/bmr-calc/
@@ -893,7 +893,7 @@ ideal-weight:
   - Potential broken link: ../../tools/one-rep-max/
 
 image-compressor:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/image-resizer/
   - Potential broken link: ../../tools/image-converter/
@@ -905,7 +905,7 @@ image-compressor:
   - Potential broken link: ../../tools/pixelate-image/
 
 image-converter:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/image-compressor/
   - Potential broken link: ../../tools/image-resizer/
@@ -917,7 +917,7 @@ image-converter:
   - Potential broken link: ../../tools/pixelate-image/
 
 image-crop:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/image-compressor/
   - Potential broken link: ../../tools/image-resizer/
@@ -929,7 +929,7 @@ image-crop:
   - Potential broken link: ../../tools/pixelate-image/
 
 image-resizer:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/image-compressor/
   - Potential broken link: ../../tools/image-converter/
@@ -941,7 +941,7 @@ image-resizer:
   - Potential broken link: ../../tools/pixelate-image/
 
 image-to-base64:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/image-compressor/
   - Potential broken link: ../../tools/image-resizer/
@@ -953,7 +953,7 @@ image-to-base64:
   - Potential broken link: ../../tools/pixelate-image/
 
 image-upscaler:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/image-compressor/
   - Potential broken link: ../../tools/image-resizer/
@@ -965,7 +965,7 @@ image-upscaler:
   - Potential broken link: ../../tools/circle-crop/
 
 image-watermark:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/image-compressor/
   - Potential broken link: ../../tools/image-resizer/
@@ -977,7 +977,7 @@ image-watermark:
   - Potential broken link: ../../tools/circle-crop/
 
 internet-speed:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/notepad/
   - Potential broken link: ../../tools/todo-list/
@@ -989,7 +989,7 @@ internet-speed:
   - Potential broken link: ../../tools/whats-my-ip/
 
 invoice-generator:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/password-generator/
   - Potential broken link: ../../tools/qr-generator/
@@ -1001,7 +1001,7 @@ invoice-generator:
   - Potential broken link: ../../tools/pin-generator/
 
 jpg-to-pdf:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/compress-pdf/
   - Potential broken link: ../../tools/merge-pdf/
@@ -1013,7 +1013,7 @@ jpg-to-pdf:
   - Potential broken link: ../../tools/word-to-pdf/
 
 js-beautify:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/regex-tester/
   - Potential broken link: ../../tools/markdown-preview/
@@ -1025,7 +1025,7 @@ js-beautify:
   - Potential broken link: ../../tools/text-to-slug/
 
 json-formatter:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/base64/
   - Potential broken link: ../../tools/url-encode/
@@ -1037,7 +1037,7 @@ json-formatter:
   - Potential broken link: ../../tools/number-base/
 
 json-to-csv:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/base64/
   - Potential broken link: ../../tools/url-encode/
@@ -1049,7 +1049,7 @@ json-to-csv:
   - Potential broken link: ../../tools/number-base/
 
 json-to-xml:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/base64/
   - Potential broken link: ../../tools/url-encode/
@@ -1061,7 +1061,7 @@ json-to-xml:
   - Potential broken link: ../../tools/number-base/
 
 json-to-yaml:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/base64/
   - Potential broken link: ../../tools/url-encode/
@@ -1073,7 +1073,7 @@ json-to-yaml:
   - Potential broken link: ../../tools/number-base/
 
 jwt-decoder:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/regex-tester/
   - Potential broken link: ../../tools/markdown-preview/
@@ -1085,7 +1085,7 @@ jwt-decoder:
   - Potential broken link: ../../tools/text-to-slug/
 
 keyword-density:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/meta-generator/
   - Potential broken link: ../../tools/robots-generator/
@@ -1097,7 +1097,7 @@ keyword-density:
   - Potential broken link: ../../tools/backlink-checker/
 
 keyword-suggestion:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/meta-generator/
   - Potential broken link: ../../tools/keyword-density/
@@ -1109,7 +1109,7 @@ keyword-suggestion:
   - Potential broken link: ../../tools/htaccess-redirect/
 
 loan-calc:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/percentage-calc/
   - Potential broken link: ../../tools/percentage-change/
@@ -1121,7 +1121,7 @@ loan-calc:
   - Potential broken link: ../../tools/markup-calc/
 
 lorem-ipsum:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/word-counter/
   - Potential broken link: ../../tools/case-converter/
@@ -1133,7 +1133,7 @@ lorem-ipsum:
   - Potential broken link: ../../tools/remove-extra-spaces/
 
 lorem-json:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/password-generator/
   - Potential broken link: ../../tools/qr-generator/
@@ -1145,7 +1145,7 @@ lorem-json:
   - Potential broken link: ../../tools/pin-generator/
 
 macro-calc:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/bmi-calc/
   - Potential broken link: ../../tools/bmr-calc/
@@ -1157,7 +1157,7 @@ macro-calc:
   - Potential broken link: ../../tools/one-rep-max/
 
 markdown-preview:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/regex-tester/
   - Potential broken link: ../../tools/jwt-decoder/
@@ -1169,7 +1169,7 @@ markdown-preview:
   - Potential broken link: ../../tools/text-to-slug/
 
 markup-calc:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/percentage-calc/
   - Potential broken link: ../../tools/percentage-change/
@@ -1181,7 +1181,7 @@ markup-calc:
   - Potential broken link: ../../tools/sales-tax/
 
 md5-generator:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/aes-encrypt/
   - Potential broken link: ../../tools/caesar-cipher/
@@ -1191,7 +1191,7 @@ md5-generator:
   - Potential broken link: ../../tools/ssl-checker/
 
 meme-generator:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/image-compressor/
   - Potential broken link: ../../tools/image-resizer/
@@ -1203,7 +1203,7 @@ meme-generator:
   - Potential broken link: ../../tools/circle-crop/
 
 merge-pdf:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/compress-pdf/
   - Potential broken link: ../../tools/split-pdf/
@@ -1215,7 +1215,7 @@ merge-pdf:
   - Potential broken link: ../../tools/word-to-pdf/
 
 meta-generator:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/keyword-density/
   - Potential broken link: ../../tools/robots-generator/
@@ -1227,7 +1227,7 @@ meta-generator:
   - Potential broken link: ../../tools/backlink-checker/
 
 mortgage-calc:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/percentage-calc/
   - Potential broken link: ../../tools/percentage-change/
@@ -1239,7 +1239,7 @@ mortgage-calc:
   - Potential broken link: ../../tools/markup-calc/
 
 name-picker:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/notepad/
   - Potential broken link: ../../tools/todo-list/
@@ -1251,7 +1251,7 @@ name-picker:
   - Potential broken link: ../../tools/browser-info/
 
 notepad:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/todo-list/
   - Potential broken link: ../../tools/wheel-picker/
@@ -1263,7 +1263,7 @@ notepad:
   - Potential broken link: ../../tools/browser-info/
 
 number-base:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/base64/
   - Potential broken link: ../../tools/url-encode/
@@ -1275,7 +1275,7 @@ number-base:
   - Potential broken link: ../../tools/json-to-yaml/
 
 og-generator:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/meta-generator/
   - Potential broken link: ../../tools/keyword-density/
@@ -1287,7 +1287,7 @@ og-generator:
   - Potential broken link: ../../tools/backlink-checker/
 
 one-rep-max:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/bmi-calc/
   - Potential broken link: ../../tools/bmr-calc/
@@ -1299,7 +1299,7 @@ one-rep-max:
   - Potential broken link: ../../tools/water-intake/
 
 palette-generator:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/color-picker/
   - Potential broken link: ../../tools/gradient-generator/
@@ -1310,7 +1310,7 @@ palette-generator:
   - Potential broken link: ../../tools/color-blindness/
 
 paraphraser:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/word-counter/
   - Potential broken link: ../../tools/case-converter/
@@ -1322,7 +1322,7 @@ paraphraser:
   - Potential broken link: ../../tools/remove-extra-spaces/
 
 password-generator:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/qr-generator/
   - Potential broken link: ../../tools/barcode-generator/
@@ -1334,7 +1334,7 @@ password-generator:
   - Potential broken link: ../../tools/api-key-generator/
 
 password-strength:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/password-generator/
   - Potential broken link: ../../tools/qr-generator/
@@ -1346,7 +1346,7 @@ password-strength:
   - Potential broken link: ../../tools/pin-generator/
 
 pdf-extract-text:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/compress-pdf/
   - Potential broken link: ../../tools/merge-pdf/
@@ -1358,7 +1358,7 @@ pdf-extract-text:
   - Potential broken link: ../../tools/pdf-to-word/
 
 pdf-page-numbers:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/compress-pdf/
   - Potential broken link: ../../tools/merge-pdf/
@@ -1370,7 +1370,7 @@ pdf-page-numbers:
   - Potential broken link: ../../tools/pdf-to-word/
 
 pdf-to-excel:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/compress-pdf/
   - Potential broken link: ../../tools/merge-pdf/
@@ -1382,7 +1382,7 @@ pdf-to-excel:
   - Potential broken link: ../../tools/pdf-to-word/
 
 pdf-to-jpg:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/compress-pdf/
   - Potential broken link: ../../tools/merge-pdf/
@@ -1394,7 +1394,7 @@ pdf-to-jpg:
   - Potential broken link: ../../tools/word-to-pdf/
 
 pdf-to-png:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/compress-pdf/
   - Potential broken link: ../../tools/merge-pdf/
@@ -1406,7 +1406,7 @@ pdf-to-png:
   - Potential broken link: ../../tools/word-to-pdf/
 
 pdf-to-word:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/compress-pdf/
   - Potential broken link: ../../tools/merge-pdf/
@@ -1418,7 +1418,7 @@ pdf-to-word:
   - Potential broken link: ../../tools/word-to-pdf/
 
 percentage-calc:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/percentage-change/
   - Potential broken link: ../../tools/loan-calc/
@@ -1430,7 +1430,7 @@ percentage-calc:
   - Potential broken link: ../../tools/markup-calc/
 
 percentage-change:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/percentage-calc/
   - Potential broken link: ../../tools/loan-calc/
@@ -1442,7 +1442,7 @@ percentage-change:
   - Potential broken link: ../../tools/markup-calc/
 
 photo-filters:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/image-compressor/
   - Potential broken link: ../../tools/image-resizer/
@@ -1454,7 +1454,7 @@ photo-filters:
   - Potential broken link: ../../tools/circle-crop/
 
 pin-generator:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/password-generator/
   - Potential broken link: ../../tools/qr-generator/
@@ -1466,7 +1466,7 @@ pin-generator:
   - Potential broken link: ../../tools/api-key-generator/
 
 pixelate-image:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/image-compressor/
   - Potential broken link: ../../tools/image-resizer/
@@ -1478,7 +1478,7 @@ pixelate-image:
   - Potential broken link: ../../tools/circle-crop/
 
 plagiarism-checker:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/word-counter/
   - Potential broken link: ../../tools/case-converter/
@@ -1490,7 +1490,7 @@ plagiarism-checker:
   - Potential broken link: ../../tools/remove-extra-spaces/
 
 png-to-pdf:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/compress-pdf/
   - Potential broken link: ../../tools/merge-pdf/
@@ -1502,7 +1502,7 @@ png-to-pdf:
   - Potential broken link: ../../tools/word-to-pdf/
 
 pomodoro:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/countdown-timer/
   - Potential broken link: ../../tools/days-until/
@@ -1514,7 +1514,7 @@ pomodoro:
   - Potential broken link: ../../tools/birthday-countdown/
 
 ppt-to-pdf:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/compress-pdf/
   - Potential broken link: ../../tools/merge-pdf/
@@ -1526,7 +1526,7 @@ ppt-to-pdf:
   - Potential broken link: ../../tools/pdf-to-word/
 
 pregnancy-due:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/bmi-calc/
   - Potential broken link: ../../tools/bmr-calc/
@@ -1538,7 +1538,7 @@ pregnancy-due:
   - Potential broken link: ../../tools/water-intake/
 
 prime-checker:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/factorial-calc/
   - Potential broken link: ../../tools/gcd-lcm/
@@ -1550,7 +1550,7 @@ prime-checker:
   - Potential broken link: ../../tools/random-picker-num/
 
 protect-pdf:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/compress-pdf/
   - Potential broken link: ../../tools/merge-pdf/
@@ -1562,7 +1562,7 @@ protect-pdf:
   - Potential broken link: ../../tools/pdf-to-word/
 
 qr-generator:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/password-generator/
   - Potential broken link: ../../tools/barcode-generator/
@@ -1574,7 +1574,7 @@ qr-generator:
   - Potential broken link: ../../tools/api-key-generator/
 
 quadratic-solver:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/prime-checker/
   - Potential broken link: ../../tools/factorial-calc/
@@ -1586,7 +1586,7 @@ quadratic-solver:
   - Potential broken link: ../../tools/random-picker-num/
 
 query-parser:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/base64/
   - Potential broken link: ../../tools/url-encode/
@@ -1598,7 +1598,7 @@ query-parser:
   - Potential broken link: ../../tools/json-to-yaml/
 
 random-name:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/password-generator/
   - Potential broken link: ../../tools/qr-generator/
@@ -1610,7 +1610,7 @@ random-name:
   - Potential broken link: ../../tools/api-key-generator/
 
 random-number:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/password-generator/
   - Potential broken link: ../../tools/qr-generator/
@@ -1622,7 +1622,7 @@ random-number:
   - Potential broken link: ../../tools/api-key-generator/
 
 random-picker-num:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/prime-checker/
   - Potential broken link: ../../tools/factorial-calc/
@@ -1634,7 +1634,7 @@ random-picker-num:
   - Potential broken link: ../../tools/ratio-calc/
 
 random-string:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/password-generator/
   - Potential broken link: ../../tools/qr-generator/
@@ -1646,7 +1646,7 @@ random-string:
   - Potential broken link: ../../tools/api-key-generator/
 
 ratio-calc:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/prime-checker/
   - Potential broken link: ../../tools/factorial-calc/
@@ -1658,7 +1658,7 @@ ratio-calc:
   - Potential broken link: ../../tools/random-picker-num/
 
 reel-transcriber:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/video-downloader/
   - Potential broken link: ../../tools/thumbnail-downloader/
@@ -1670,7 +1670,7 @@ reel-transcriber:
   - Potential broken link: ../../tools/engagement-rate/
 
 regex-tester:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/markdown-preview/
   - Potential broken link: ../../tools/jwt-decoder/
@@ -1682,7 +1682,7 @@ regex-tester:
   - Potential broken link: ../../tools/text-to-slug/
 
 remove-duplicate-lines:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/word-counter/
   - Potential broken link: ../../tools/case-converter/
@@ -1694,7 +1694,7 @@ remove-duplicate-lines:
   - Potential broken link: ../../tools/remove-line-breaks/
 
 remove-empty-lines:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/word-counter/
   - Potential broken link: ../../tools/case-converter/
@@ -1706,7 +1706,7 @@ remove-empty-lines:
   - Potential broken link: ../../tools/remove-line-breaks/
 
 remove-extra-spaces:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/word-counter/
   - Potential broken link: ../../tools/case-converter/
@@ -1718,7 +1718,7 @@ remove-extra-spaces:
   - Potential broken link: ../../tools/remove-line-breaks/
 
 remove-line-breaks:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/word-counter/
   - Potential broken link: ../../tools/case-converter/
@@ -1730,7 +1730,7 @@ remove-line-breaks:
   - Potential broken link: ../../tools/remove-extra-spaces/
 
 resume-builder:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/password-generator/
   - Potential broken link: ../../tools/qr-generator/
@@ -1742,7 +1742,7 @@ resume-builder:
   - Potential broken link: ../../tools/pin-generator/
 
 reverse-text:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/word-counter/
   - Potential broken link: ../../tools/case-converter/
@@ -1754,7 +1754,7 @@ reverse-text:
   - Potential broken link: ../../tools/remove-extra-spaces/
 
 robots-generator:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/meta-generator/
   - Potential broken link: ../../tools/keyword-density/
@@ -1766,7 +1766,7 @@ robots-generator:
   - Potential broken link: ../../tools/backlink-checker/
 
 roi-calc:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/percentage-calc/
   - Potential broken link: ../../tools/percentage-change/
@@ -1778,7 +1778,7 @@ roi-calc:
   - Potential broken link: ../../tools/markup-calc/
 
 roman-numeral:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/base64/
   - Potential broken link: ../../tools/url-encode/
@@ -1790,7 +1790,7 @@ roman-numeral:
   - Potential broken link: ../../tools/json-to-yaml/
 
 rot13:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/aes-encrypt/
   - Potential broken link: ../../tools/caesar-cipher/
@@ -1800,7 +1800,7 @@ rot13:
   - Potential broken link: ../../tools/ssl-checker/
 
 rotate-image:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/image-compressor/
   - Potential broken link: ../../tools/image-resizer/
@@ -1812,7 +1812,7 @@ rotate-image:
   - Potential broken link: ../../tools/pixelate-image/
 
 rotate-pdf:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/compress-pdf/
   - Potential broken link: ../../tools/merge-pdf/
@@ -1824,7 +1824,7 @@ rotate-pdf:
   - Potential broken link: ../../tools/pdf-to-word/
 
 rounding-calc:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/prime-checker/
   - Potential broken link: ../../tools/factorial-calc/
@@ -1836,7 +1836,7 @@ rounding-calc:
   - Potential broken link: ../../tools/random-picker-num/
 
 salary-calc:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/percentage-calc/
   - Potential broken link: ../../tools/percentage-change/
@@ -1848,7 +1848,7 @@ salary-calc:
   - Potential broken link: ../../tools/markup-calc/
 
 sales-tax:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/percentage-calc/
   - Potential broken link: ../../tools/percentage-change/
@@ -1860,7 +1860,7 @@ sales-tax:
   - Potential broken link: ../../tools/markup-calc/
 
 scientific-calc:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/percentage-calc/
   - Potential broken link: ../../tools/percentage-change/
@@ -1872,7 +1872,7 @@ scientific-calc:
   - Potential broken link: ../../tools/sales-tax/
 
 screen-resolution:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/notepad/
   - Potential broken link: ../../tools/todo-list/
@@ -1884,7 +1884,7 @@ screen-resolution:
   - Potential broken link: ../../tools/whats-my-ip/
 
 serp-preview:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/meta-generator/
   - Potential broken link: ../../tools/keyword-density/
@@ -1896,7 +1896,7 @@ serp-preview:
   - Potential broken link: ../../tools/backlink-checker/
 
 shadow-generator:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/color-picker/
   - Potential broken link: ../../tools/gradient-generator/
@@ -1907,7 +1907,7 @@ shadow-generator:
   - Potential broken link: ../../tools/color-blindness/
 
 slug-generator:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/word-counter/
   - Potential broken link: ../../tools/case-converter/
@@ -1919,7 +1919,7 @@ slug-generator:
   - Potential broken link: ../../tools/remove-extra-spaces/
 
 sort-lines:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/word-counter/
   - Potential broken link: ../../tools/case-converter/
@@ -1931,7 +1931,7 @@ sort-lines:
   - Potential broken link: ../../tools/remove-line-breaks/
 
 speech-to-text:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/base64/
   - Potential broken link: ../../tools/url-encode/
@@ -1943,7 +1943,7 @@ speech-to-text:
   - Potential broken link: ../../tools/json-to-yaml/
 
 speed-distance-time:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/percentage-calc/
   - Potential broken link: ../../tools/percentage-change/
@@ -1955,7 +1955,7 @@ speed-distance-time:
   - Potential broken link: ../../tools/sales-tax/
 
 split-pdf:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/compress-pdf/
   - Potential broken link: ../../tools/merge-pdf/
@@ -1967,7 +1967,7 @@ split-pdf:
   - Potential broken link: ../../tools/word-to-pdf/
 
 sql-formatter:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/regex-tester/
   - Potential broken link: ../../tools/markdown-preview/
@@ -1979,7 +1979,7 @@ sql-formatter:
   - Potential broken link: ../../tools/text-to-slug/
 
 ssl-checker:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/aes-encrypt/
   - Potential broken link: ../../tools/caesar-cipher/
@@ -1989,7 +1989,7 @@ ssl-checker:
   - Potential broken link: ../../tools/htpasswd/
 
 standard-deviation:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/prime-checker/
   - Potential broken link: ../../tools/factorial-calc/
@@ -2001,7 +2001,7 @@ standard-deviation:
   - Potential broken link: ../../tools/random-picker-num/
 
 stopwatch:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/countdown-timer/
   - Potential broken link: ../../tools/days-until/
@@ -2013,7 +2013,7 @@ stopwatch:
   - Potential broken link: ../../tools/birthday-countdown/
 
 subtitle-generator:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/reel-transcriber/
   - Potential broken link: ../../tools/video-downloader/
@@ -2025,7 +2025,7 @@ subtitle-generator:
   - Potential broken link: ../../tools/engagement-rate/
 
 summarizer:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/word-counter/
   - Potential broken link: ../../tools/case-converter/
@@ -2037,7 +2037,7 @@ summarizer:
   - Potential broken link: ../../tools/remove-extra-spaces/
 
 tally-counter:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/notepad/
   - Potential broken link: ../../tools/todo-list/
@@ -2049,7 +2049,7 @@ tally-counter:
   - Potential broken link: ../../tools/browser-info/
 
 tdee-calc:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/bmi-calc/
   - Potential broken link: ../../tools/bmr-calc/
@@ -2061,7 +2061,7 @@ tdee-calc:
   - Potential broken link: ../../tools/one-rep-max/
 
 text-diff:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/word-counter/
   - Potential broken link: ../../tools/case-converter/
@@ -2073,7 +2073,7 @@ text-diff:
   - Potential broken link: ../../tools/remove-line-breaks/
 
 text-repeater:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/word-counter/
   - Potential broken link: ../../tools/case-converter/
@@ -2085,7 +2085,7 @@ text-repeater:
   - Potential broken link: ../../tools/remove-extra-spaces/
 
 text-to-binary:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/word-counter/
   - Potential broken link: ../../tools/case-converter/
@@ -2097,7 +2097,7 @@ text-to-binary:
   - Potential broken link: ../../tools/remove-extra-spaces/
 
 text-to-morse:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/word-counter/
   - Potential broken link: ../../tools/case-converter/
@@ -2109,7 +2109,7 @@ text-to-morse:
   - Potential broken link: ../../tools/remove-extra-spaces/
 
 text-to-slug:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/regex-tester/
   - Potential broken link: ../../tools/markdown-preview/
@@ -2121,7 +2121,7 @@ text-to-slug:
   - Potential broken link: ../../tools/cron-generator/
 
 text-to-speech:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/base64/
   - Potential broken link: ../../tools/url-encode/
@@ -2133,7 +2133,7 @@ text-to-speech:
   - Potential broken link: ../../tools/json-to-yaml/
 
 thumbnail-downloader:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/reel-transcriber/
   - Potential broken link: ../../tools/video-downloader/
@@ -2145,7 +2145,7 @@ thumbnail-downloader:
   - Potential broken link: ../../tools/engagement-rate/
 
 timestamp-converter:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/base64/
   - Potential broken link: ../../tools/url-encode/
@@ -2157,7 +2157,7 @@ timestamp-converter:
   - Potential broken link: ../../tools/json-to-yaml/
 
 timezone-converter:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/countdown-timer/
   - Potential broken link: ../../tools/days-until/
@@ -2169,7 +2169,7 @@ timezone-converter:
   - Potential broken link: ../../tools/birthday-countdown/
 
 tip-calc:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/percentage-calc/
   - Potential broken link: ../../tools/percentage-change/
@@ -2181,7 +2181,7 @@ tip-calc:
   - Potential broken link: ../../tools/sales-tax/
 
 todo-list:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/notepad/
   - Potential broken link: ../../tools/wheel-picker/
@@ -2193,7 +2193,7 @@ todo-list:
   - Potential broken link: ../../tools/browser-info/
 
 twitter-card:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/meta-generator/
   - Potential broken link: ../../tools/keyword-density/
@@ -2205,7 +2205,7 @@ twitter-card:
   - Potential broken link: ../../tools/backlink-checker/
 
 twitter-char-counter:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/reel-transcriber/
   - Potential broken link: ../../tools/video-downloader/
@@ -2217,7 +2217,7 @@ twitter-char-counter:
   - Potential broken link: ../../tools/engagement-rate/
 
 unit-converter:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/base64/
   - Potential broken link: ../../tools/url-encode/
@@ -2229,7 +2229,7 @@ unit-converter:
   - Potential broken link: ../../tools/json-to-yaml/
 
 unlock-pdf:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/compress-pdf/
   - Potential broken link: ../../tools/merge-pdf/
@@ -2241,7 +2241,7 @@ unlock-pdf:
   - Potential broken link: ../../tools/pdf-to-word/
 
 upside-down-text:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/word-counter/
   - Potential broken link: ../../tools/case-converter/
@@ -2253,7 +2253,7 @@ upside-down-text:
   - Potential broken link: ../../tools/remove-extra-spaces/
 
 url-encode:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/base64/
   - Potential broken link: ../../tools/html-encode/
@@ -2265,7 +2265,7 @@ url-encode:
   - Potential broken link: ../../tools/number-base/
 
 url-parser:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/base64/
   - Potential broken link: ../../tools/url-encode/
@@ -2277,7 +2277,7 @@ url-parser:
   - Potential broken link: ../../tools/json-to-yaml/
 
 user-agent:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/regex-tester/
   - Potential broken link: ../../tools/markdown-preview/
@@ -2289,7 +2289,7 @@ user-agent:
   - Potential broken link: ../../tools/cron-generator/
 
 utm-builder:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/meta-generator/
   - Potential broken link: ../../tools/keyword-density/
@@ -2301,7 +2301,7 @@ utm-builder:
   - Potential broken link: ../../tools/backlink-checker/
 
 uuid-generator:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/password-generator/
   - Potential broken link: ../../tools/qr-generator/
@@ -2313,7 +2313,7 @@ uuid-generator:
   - Potential broken link: ../../tools/api-key-generator/
 
 video-compressor:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/reel-transcriber/
   - Potential broken link: ../../tools/video-downloader/
@@ -2325,7 +2325,7 @@ video-compressor:
   - Potential broken link: ../../tools/engagement-rate/
 
 video-downloader:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/reel-transcriber/
   - Potential broken link: ../../tools/thumbnail-downloader/
@@ -2337,7 +2337,7 @@ video-downloader:
   - Potential broken link: ../../tools/engagement-rate/
 
 video-to-mp3:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/reel-transcriber/
   - Potential broken link: ../../tools/video-downloader/
@@ -2349,7 +2349,7 @@ video-to-mp3:
   - Potential broken link: ../../tools/engagement-rate/
 
 water-intake:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/bmi-calc/
   - Potential broken link: ../../tools/bmr-calc/
@@ -2361,7 +2361,7 @@ water-intake:
   - Potential broken link: ../../tools/one-rep-max/
 
 watermark-pdf:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/compress-pdf/
   - Potential broken link: ../../tools/merge-pdf/
@@ -2373,7 +2373,7 @@ watermark-pdf:
   - Potential broken link: ../../tools/pdf-to-word/
 
 week-number:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/countdown-timer/
   - Potential broken link: ../../tools/days-until/
@@ -2385,7 +2385,7 @@ week-number:
   - Potential broken link: ../../tools/birthday-countdown/
 
 whats-my-ip:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/notepad/
   - Potential broken link: ../../tools/todo-list/
@@ -2397,7 +2397,7 @@ whats-my-ip:
   - Potential broken link: ../../tools/browser-info/
 
 wheel-picker:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/notepad/
   - Potential broken link: ../../tools/todo-list/
@@ -2409,7 +2409,7 @@ wheel-picker:
   - Potential broken link: ../../tools/browser-info/
 
 whitespace-remover:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/word-counter/
   - Potential broken link: ../../tools/case-converter/
@@ -2421,7 +2421,7 @@ whitespace-remover:
   - Potential broken link: ../../tools/remove-extra-spaces/
 
 word-counter:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/case-converter/
   - Potential broken link: ../../tools/text-diff/
@@ -2433,7 +2433,7 @@ word-counter:
   - Potential broken link: ../../tools/remove-line-breaks/
 
 word-to-pdf:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/compress-pdf/
   - Potential broken link: ../../tools/merge-pdf/
@@ -2445,7 +2445,7 @@ word-to-pdf:
   - Potential broken link: ../../tools/pdf-to-word/
 
 work-hours:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/countdown-timer/
   - Potential broken link: ../../tools/days-until/
@@ -2457,7 +2457,7 @@ work-hours:
   - Potential broken link: ../../tools/birthday-countdown/
 
 youtube-money-calc:
-  - Contains old domain: mastertools-501.pages.dev
+  - Contains old domain: toolstack-501.pages.dev
   - Potential broken link: ../../tools/
   - Potential broken link: ../../tools/reel-transcriber/
   - Potential broken link: ../../tools/video-downloader/

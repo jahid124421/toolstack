@@ -4,5 +4,5 @@ vendor/ffmpeg/
 **/ffmpeg-core.js
 
 # Also exclude any copies in parent/sibling directories
-../phonehub/mastertools/vendor/ffmpeg/
-../../phonehub/mastertools/vendor/ffmpeg/
+../phonehub/toolstack/vendor/ffmpeg/
+../../phonehub/toolstack/vendor/ffmpeg/

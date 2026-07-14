@@ -1,4 +1,4 @@
-# Free AI Services Research for MasterTools
+# Free AI Services Research for ToolStack
 
 ## AI-Powered Tools That Need Free APIs
 

@@ -8,7 +8,7 @@ set "SCRIPT_DIR=%~dp0"
 set "SCRIPT_DIR=%SCRIPT_DIR:~0,-1%"
 
 REM Create temp deploy directory outside project tree
-set "TMP_DEPLOY=%TEMP%\mastertools_deploy_%RANDOM%"
+set "TMP_DEPLOY=%TEMP%\toolstack_deploy_%RANDOM%"
 mkdir "%TMP_DEPLOY%"
 
 echo Copying files (excluding vendor/ffmpeg and .git)...
@@ -25,7 +25,7 @@ if errorlevel 8 (
 
 echo Deploying to Cloudflare Pages...
 cd /d "%TMP_DEPLOY%"
-npx wrangler pages deploy . --project-name=mastertools --branch=main
+npx wrangler pages deploy . --project-name=toolstack --branch=main
 
 set "DEPLOY_EXIT=%ERRORLEVEL%"
 

@@ -1,9 +1,9 @@
-# 🚀 MasterTools Launch Checklist
+# 🚀 ToolStack Launch Checklist
 
 ## ✅ Completed (Automated)
 
 ### Domain & Configuration
-- [x] Domain changed from `mastertools-501.pages.dev` to `toolstack.dpdns.org`
+- [x] Domain changed from `toolstack-501.pages.dev` to `toolstack.dpdns.org`
 - [x] All 207 tools updated with new domain
 - [x] All SEO pages regenerated (209 URLs)
 - [x] Sitemap.xml updated
@@ -31,22 +31,22 @@
 
 **Option A: Wrangler CLI (Fastest)**
 ```bash
-cd mastertools-deploy
+cd ToolStack
 wrangler login
 wrangler pages deploy
 ```
 
 **Option B: Cloudflare Dashboard (Easiest)**
 1. Go to: https://dash.cloudflare.com/pages
-2. Click **mastertools** project
+2. Click **toolstack** project
 3. Click **Deployments** → **Create deployment**
-4. Drag & drop the `mastertools-deploy` folder
+4. Drag & drop the `ToolStack` folder
 5. Wait 2-3 minutes
 
 ### Step 2: Add Custom Domain (2 minutes)
 
 1. Go to: https://dash.cloudflare.com/pages
-2. Click **mastertools** project
+2. Click **toolstack** project
 3. Go to **Custom domains** tab
 4. Click **Set up a custom domain**
 5. Enter: `toolstack.dpdns.org`
