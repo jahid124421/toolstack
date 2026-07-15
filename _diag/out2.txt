@@ -1,0 +1,57 @@
+start
+=== LOG ALL ===
+2dc1b44 Fix SEO Refresh workflow: deploy to correct Cloudflare project (mastertools)
+ef5066b chore: auto-regenerate SEO pages [skip ci]
+b31508d Rebrand everything to ToolStack: HTML branding, docs, comments, headers
+9f7f359 chore: auto-regenerate SEO pages [skip ci]
+ebe22a9 Rebrand to Somar's All Free Tools across all pages; fix robots.txt sitemap domain to toolstack.dpdns.org
+5dfcafb Rebrand to Somar's All Free Tools + SEO: titles, meta, Open Graph, JSON-LD, canonical, sitemap
+21625b2 Fix cookie consent banner (dismiss on Accept); add consent banner to all SEO pages
+83c21ff Fill legal pages: Somar, contact email, Bangladesh governing law
+3b2362c Enrich all 207 tool pages: real content, use cases, FAQ, JSON-LD structured data
+038ac19 Add 207 SEO landing pages, all-tools hub, full sitemap, robots
+669df7e Add legal pages (privacy, terms, disclaimer, contact), cookie consent, ads.txt
+3ada17f MasterTools: 207 tools, self-contained, launch-ready
+=== MERGE BASE / reflog short ===
+2dc1b44 HEAD@{0}: pull --rebase origin main (finish): returning to refs/heads/main
+2dc1b44 HEAD@{1}: pull --rebase origin main (pick): Fix SEO Refresh workflow: deploy to correct Cloudflare project (mastertools)
+ef5066b HEAD@{2}: pull --rebase origin main (start): checkout ef5066b7a3631e156c00b2fad6a1c5768e4d0790
+1f599cf HEAD@{3}: commit: Fix SEO Refresh workflow: deploy to correct Cloudflare project (mastertools)
+b31508d HEAD@{4}: pull --rebase origin main (finish): returning to refs/heads/main
+b31508d HEAD@{5}: pull --rebase origin main (pick): Rebrand everything to ToolStack: HTML branding, docs, comments, headers
+9f7f359 HEAD@{6}: pull --rebase origin main (start): checkout 9f7f359abd34db2930dd825a76d989bf1c9c10a8
+b1b06cf HEAD@{7}: commit: Rebrand everything to ToolStack: HTML branding, docs, comments, headers
+ebe22a9 HEAD@{8}: commit: Rebrand to Somar's All Free Tools across all pages; fix robots.txt sitemap domain to toolstack.dpdns.org
+5dfcafb HEAD@{9}: commit: Rebrand to Somar's All Free Tools + SEO: titles, meta, Open Graph, JSON-LD, canonical, sitemap
+=== SECRETS IN HEAD TREE ===
+gsk_OOyr4BhX... -> 0 files
+csk-yx4y4cfp... -> 0 files
+fe_oa_19a7f7... -> 0 files
+sk-or-v1-9f7... -> 0 files
+1c6533297b71... -> 0 files
+cfut_eQilcmO... -> 0 files
+AQ.Ab8RN6L6Q... -> 0 files
+=== SECRETS IN ANY COMMIT (all refs) ===
+gsk_OOyr4BhX... -> 0 commits
+csk-yx4y4cfp... -> 0 commits
+fe_oa_19a7f7... -> 0 commits
+sk-or-v1-9f7... -> 0 commits
+1c6533297b71... -> 0 commits
+cfut_eQilcmO... -> 0 commits
+AQ.Ab8RN6L6Q... -> 0 commits
+=== SAMPLE UNSTAGED DIFF (index.html) ===
+diff --git a/index.html b/index.html
+index f56e5e5..b07ce45 100644
+--- a/index.html
++++ b/index.html
+@@ -5,7 +5,7 @@
+   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+   <title>ToolStack — 200+ Free Online Tools: PDF, Image, Video, AI &amp; Text</title>
+   <meta name="description" content="ToolStack — 200+ free online tools in one place: PDF, image, video, AI, text, converters, calculators, developer, SEO and security tools. Fast, private, in your browser, no signup." />
+-  <meta name="keywords" content="somar's all free tools, all free tools, free online tools, pdf tools, image compressor, video to mp3, ai tools, word counter, qr code generator, json formatter, unit converter, password generator" />
++  <meta name="keywords" content="toolstack, all free tools, free online tools, pdf tools, image compressor, video to mp3, ai tools, word counter, qr code generator, json formatter, unit converter, password generator" />
+   <link rel="canonical" href="https://toolstack.dpdns.org/" />
+   <meta property="og:title" content="ToolStack — 200+ Free Online Tools" />
+   <meta property="og:description" content="200+ free online tools: PDF, image, video, AI, text,
+=== working-tree HTML files containing Somar: 74
+=== HEAD-tree HTML files containing Somar: 208

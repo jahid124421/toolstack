@@ -1,0 +1,24 @@
+start
+unstaged names=213
+diff --stat lines=214
+any somar left=1
+=== build_seo_pages.py BRAND line ===
+build_seo_pages.py:13:BRAND = "ToolStack"
+build_seo_pages.py:139:        "name": n + " — " + BRAND, "applicationCategory": "UtilitiesApplication",
+=== sample tool page title/footer ===
+tools/age-calc/index.html:5:<title>Age Calculator — Free Online Tool | ToolStack</title>
+tools/age-calc/index.html:9:<meta property="og:site_name" content="ToolStack">
+tools/age-calc/index.html:10:<meta property="og:title" content="Age Calculator — ToolStack"><meta property="og:description" content="Exact age. Free, private, in your browser."><meta property="og:type" content="website"><meta property="og:url" content="https://toolstack.dpdns.org/tools/age-calc/">
+tools/age-calc/index.html:14:<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "Age Calculator \u2014 ToolStack", "applicationCategory": "UtilitiesApplication", "operatingSystem": "Any (web browser)", "description": "Exact age. Free, private, in-browser.", "offers": {"
+=== robots.txt ===
+User-agent: *
+Allow: /
+
+# When you connect a custom domain, change this line to your domain.
+Sitemap: https://toolstack.dpdns.org/sitemap.xml
+--- working robots.txt ---
+User-agent: *
+Allow: /
+
+# When you connect a custom domain, change this line to your domain.
+Sitemap: https://toolstack.dpdns.org/sitemap.xml

@@ -1,0 +1,6 @@
+start
+after checkout, unstaged names=0
+files changed by replacement=213
+changed sample=['SETUP_GITHUB_NOW.md', 'ads.txt', 'build_seo_pages.py', 'index.html', 'js/app.js', 'tools/add-line-numbers/index.html', 'tools/add-subtract-days/index.html', 'tools/aes-encrypt/index.html', 'tools/age-calc/index.html', 'tools/ai-detector/index.html']
+remaining somar files (excl utils)=0
+remaining=[]

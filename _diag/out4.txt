@@ -1,0 +1,40 @@
+start
+===== build_seo_pages.py =====
+HEAD:build_seo_pages.py:13:BRAND = "Somar's All Free Tools"
+HEAD:build_seo_pages.py:124:        f"Need to {act_l}? {n} does exactly that, straight from your browser. It's part of Somar's All Free Tools' free {esc(cat)} collection and works on any device with nothing to install.",
+HEAD:build_seo_pages.py:152:<title>{esc(n)} — Free Online Tool | Somar's All Free Tools</title>
+HEAD:build_seo_pages.py:154:<meta name="keywords" content="{esc(n.lower())}, free {esc(n.lower())}, online {esc(n.lower())}, {esc(cat.lower())}, somar's all free tools">
+HEAD:build_seo_pages.py:156:<meta property="og:site_name" content="Somar's All Free Tools">
+HEAD:build_seo_pages.py:157:<meta property="og:title" content="{esc(n)} — Somar's All Free Tools"><meta property="og:description" content="{esc(act)}. Free, private, in your browser."><meta property="og:type" content="website"><meta property="og:url" content="{SITE}/tools/{tid}/">
+HEAD:build_seo_pages.py:183:      <h2>Why use Somar's All Free Tools?</h2>
+HEAD:build_seo_pages.py:200:  <div><strong>Somar's All Free Tools</strong> — 200+ free tools, one place.</div>
+HEAD:build_seo_pages.py:205:  <div class="footer-copy">© <span>2026</span> Somar's All Free Tools</div>
+HEAD:build_seo_pages.py:225:<title>All {len(ALL)} Free Online Tools — Somar's All Free Tools</title>
+HEAD:build_seo_pages.py:226:<meta name="description" content="Browse all {len(ALL)} free online tools on Somar's All Free Tools — PDF, image, video, text, converters, calculator
+
+===== js/app.js =====
+HEAD:js/app.js:68:        <h1>Somar's All Free Tools</h1>
+HEAD:js/app.js:141:      <p>${esc(t.desc)} This one needs an AI/server backend (the paid tier of Somar's All Free Tools).</p>
+HEAD:js/app.js:149:    const SITE = "Somar's All Free Tools";
+HEAD:js/app.js:151:    const OWNER = "Somar";
+
+===== rename_website.py =====
+HEAD:rename_website.py:2:Rename website from "Somar's All Free Tools" to "ToolStack"
+HEAD:rename_website.py:11:    ("Somar's All Free Tools", "ToolStack"),
+HEAD:rename_website.py:31:    print("Renaming website from 'Somar's All Free Tools' to 'ToolStack'...")
+
+===== setup_github_now.md =====
+
+
+===== ads.txt =====
+HEAD:ads.txt:1:# ads.txt for Somar's All Free Tools
+
+===== tools/age-calc/index.html =====
+HEAD:tools/age-calc/index.html:5:<title>Age Calculator — Free Online Tool | Somar's All Free Tools</title>
+HEAD:tools/age-calc/index.html:7:<meta name="keywords" content="age calculator, free age calculator, online age calculator, calculators, somar's all free tools">
+HEAD:tools/age-calc/index.html:9:<meta property="og:site_name" content="Somar's All Free Tools">
+HEAD:tools/age-calc/index.html:10:<meta property="og:title" content="Age Calculator — Somar's All Free Tools"><meta property="og:description" content="Exact age. Free, private, in your browser."><meta property="og:type" content="website"><meta property="og:url" content="https://toolstack.dpdns.org/tools/age-calc/">
+HEAD:tools/age-calc/index.html:14:<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "Age Calculator \u2014 Somar's All Free Tools", "applicationCategory": "UtilitiesApplication", "operatingSystem": "Any (web browser)", "description": "Exact age. Free, private, in-browser.", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}, "url": "https://toolstack.dpdns.org/tools/age-calc/"}</script>
+HEAD:tools/age-calc/index.html:36:      <h2>Why use Somar's All Free Tools?</h2>
+HEAD:tools/age-calc/index.html:53:  <div><strong>Somar's All Free Tools</strong> — 200+ free tools, one place.</div>
+HEAD:tools/age-calc/index.html:58:  <div class="footer-copy">© <span>2026</span> Somar's All Free Tools</div>

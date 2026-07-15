@@ -1,0 +1,16 @@
+start
+ADD: rc=0
+
+
+COMMIT: rc=0
+[main 48132dc] Complete ToolStack rebrand: remove all remaining Somar branding across 213 files (HTML, JS, build script, docs)
+ 214 files changed, 1796 insertions(+), 1754 deletions(-)
+ create mode 100644 _strip_somar.py
+
+PUSH: rc=0
+
+To https://github.com/jahid124421/toolstack.git
+   2dc1b44..48132dc  main -> main
+LOG: 48132dc Complete ToolStack rebrand: remove all remaining Somar branding across 213 files (HTML, JS, build script, docs)
+2dc1b44 Fix SEO Refresh workflow: deploy to correct Cloudflare project (mastertools)
+ef5066b chore: auto-regenerate SEO pages [skip ci]

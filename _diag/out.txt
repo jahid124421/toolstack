@@ -1,0 +1,10 @@
+start
+HEAD=2dc1b44
+BRANCH=main
+LOG3=2dc1b44 Fix SEO Refresh workflow: deploy to correct Cloudflare project (mastertools)
+ef5066b chore: auto-regenerate SEO pages [skip ci]
+b31508d Rebrand everything to ToolStack: HTML branding, docs, comments, headers
+UNSTAGED_names=209
+first5=['index.html', 'tools/add-line-numbers/index.html', 'tools/add-subtract-days/index.html', 'tools/aes-encrypt/index.html', 'tools/age-calc/index.html']
+work_crlf=False
+commit_crlf=False

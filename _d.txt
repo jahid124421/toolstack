@@ -1,0 +1,7 @@
+cwd=c:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE
+STAGED=0
+UNSTAGED=7
+autocrlf=true
+filemode=false
+gitattr=False
+DIFF_INDEX_START=''

@@ -1,0 +1,18 @@
+start
+=== git log (recent) ===
+48132dc Complete ToolStack rebrand: remove all remaining Somar branding across 213 files (HTML, JS, build script, docs)
+2dc1b44 Fix SEO Refresh workflow: deploy to correct Cloudflare project (mastertools)
+ef5066b chore: auto-regenerate SEO pages [skip ci]
+b31508d Rebrand everything to ToolStack: HTML branding, docs, comments, headers
+9f7f359 chore: auto-regenerate SEO pages [skip ci]
+ebe22a9 Rebrand to Somar's All Free Tools across all pages; fix robots.txt sitemap domain to toolstack.dpdns.org
+5dfcafb Rebrand to Somar's All Free Tools + SEO: titles, meta, Open Graph, JSON-LD, canonical, sitemap
+21625b2 Fix cookie consent banner (dismiss on Accept); add consent banner to all SEO pages
+HEAD index.html len=5448
+HEAD keywords:   <meta name="keywords" content="toolstack, all free tools, free online tools, pdf tools, image compressor, video to mp3, ai tools, word counter, qr code generator, json formatter, unit converter, pas
+LIVE?cb=1 len=6053 somar=1
+LIVE?cb=1 keywords:   <meta name="keywords" content="somar's all free tools, all free tools, free online tools, pdf tools, image compressor, video to mp3, ai tools, word counter, qr code generator, json formatter, unit c
+LIVE?cb=2 len=6053 somar=1
+LIVE?cb=2 keywords:   <meta name="keywords" content="somar's all free tools, all free tools, free online tools, pdf tools, image compressor, video to mp3, ai tools, word counter, qr code generator, json formatter, unit c
+=== DNS toolstack.dpdns.org ===
+A/AAAA: [(<AddressFamily.AF_INET: 2>, 0, 0, '', ('172.67.213.4', 0)), (<AddressFamily.AF_INET: 2>, 0, 0, '', ('104.21.77.238', 0))]

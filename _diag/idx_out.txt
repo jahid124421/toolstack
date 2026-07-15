@@ -1,0 +1,20 @@
+start
+=== working index.html keywords/title lines ===
+  <title>ToolStack — 200+ Free Online Tools: PDF, Image, Video, AI &amp; Text</title>
+  <meta name="description" content="ToolStack — 200+ free online tools in one place: PDF, image, video, AI, text, converters, calculators, developer, SEO and security tools. Fast, private, in your browser, no signup." />
+  <meta name="keywords" content="toolstack, all free tools, free online tools, pdf tools, image compressor, video to mp3, ai tools, word counter, qr code generator, json formatter, unit converter, password generator" />
+  <link rel="canonical" href="https://toolstack.dpdns.org/" />
+  <meta property="og:title" content="ToolStack — 200+ Free Online Tools" />
+  <meta property="og:site_name" content="ToolStack" />
+  <meta property="og:url" content="https://toolstack.dpdns.org/" />
+  <meta name="author" content="ToolStack" />
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"ToolStack","alternateName":"ToolStack","url":"https://toolstack.dpdns.org/","description":"200+ free online tools: PDF, image, video, AI, text, converters, calculators, developer, SEO and security."}</scr
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"ToolStack","url":"https://toolstack.dpdns.org/","founder":"ToolStack"}</script>
+      <a href="#/" class="brand" aria-label="ToolStack home">
+        <span class="brand-name">ToolStack <span class="brand-accent">All Free Tools</span></span>
+      <div><strong>ToolStack</strong> — 200+ free tools in one place. Free · private · in-browser.</div>
+      <div class="footer-copy">© <span id="year"></span> ToolStack</div>
+=== git grep somar in index.html (HEAD) ===
+NONE
+=== git grep somar in index.html (working) ===
+NONE

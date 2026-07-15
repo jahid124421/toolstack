@@ -1,0 +1,29 @@
+start
+REMOTE:
+origin	https://github.com/jahid124421/toolstack.git (fetch)
+origin	https://github.com/jahid124421/toolstack.git (push)
+BRANCH:
+* main 2dc1b44 [origin/main] Fix SEO Refresh workflow: deploy to correct Cloudflare project (mastertools)
+STATUS:
+M SETUP_GITHUB_NOW.md
+ M ads.txt
+ M build_seo_pages.py
+ M index.html
+ M js/app.js
+ M tools/add-line-numbers/index.html
+ M tools/add-subtract-days/index.html
+ M tools/aes-encrypt/index.html
+ M tools/age-calc/index.html
+ M tools/ai-detector/index.html
+ M tools/api-key-generator/index.html
+ M tools/average-calc/index.html
+ M tools/background-remover/index.html
+ M tools/backlink-checker/index.html
+ M tools/barcode-generator/index.html
+ M tools/base-n-log/index.html
+ M tools/base64-to-image/index.htm
+.github/workflows exists=True
+wrangler.toml exists=False
+vercel.json exists=True
+netlify.toml exists=True
+deploy exists=True

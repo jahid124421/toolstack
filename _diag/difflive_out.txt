@@ -1,0 +1,8 @@
+start
+COMMITTED index.html keywords:
+
+FATAL=Traceback (most recent call last):
+  File "c:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\_diag\difflive.py", line 12, in <module>
+    for line in g(['show', 'HEAD:index.html']).splitlines():
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'splitlines'

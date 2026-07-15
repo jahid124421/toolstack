@@ -1,0 +1,6 @@
+start
+ALL remaining somar lines:
+rename_website.py:2:Rename website from "Somar's All Free Tools" to "ToolStack"
+rename_website.py:11:    ("Somar's All Free Tools", "ToolStack"),
+rename_website.py:31:    print("Renaming website from 'Somar's All Free Tools' to 'ToolStack'...")
+files with somar: {'rename_website.py'}

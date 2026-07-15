@@ -1,0 +1,42 @@
+build-and-deploy	Deploy to Cloudflare Pages	﻿2026-07-14T14:54:06.2620888Z Node 20 is being deprecated. This workflow is running with Node 24 by default. If you need to temporarily use Node 20, you can set the ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION=true environment variable. For more information see: https://github.blog/changelog/2025-09-19-deprecation-of-node-20-on-github-actions-runners/
+build-and-deploy	Deploy to Cloudflare Pages	2026-07-14T14:54:06.2622184Z ##[group]Run cloudflare/wrangler-action@v3
+build-and-deploy	Deploy to Cloudflare Pages	2026-07-14T14:54:06.2622481Z with:
+build-and-deploy	Deploy to Cloudflare Pages	2026-07-14T14:54:06.2622797Z   command: pages deploy . --project-name=mastertools --branch=main
+build-and-deploy	Deploy to Cloudflare Pages	2026-07-14T14:54:06.2623168Z   quiet: false
+build-and-deploy	Deploy to Cloudflare Pages	2026-07-14T14:54:06.2623375Z env:
+build-and-deploy	Deploy to Cloudflare Pages	2026-07-14T14:54:06.2623641Z   pythonLocation: /opt/hostedtoolcache/Python/3.12.13/x64
+build-and-deploy	Deploy to Cloudflare Pages	2026-07-14T14:54:06.2624070Z   PKG_CONFIG_PATH: /opt/hostedtoolcache/Python/3.12.13/x64/lib/pkgconfig
+build-and-deploy	Deploy to Cloudflare Pages	2026-07-14T14:54:06.2624491Z   Python_ROOT_DIR: /opt/hostedtoolcache/Python/3.12.13/x64
+build-and-deploy	Deploy to Cloudflare Pages	2026-07-14T14:54:06.2624875Z   Python2_ROOT_DIR: /opt/hostedtoolcache/Python/3.12.13/x64
+build-and-deploy	Deploy to Cloudflare Pages	2026-07-14T14:54:06.2625256Z   Python3_ROOT_DIR: /opt/hostedtoolcache/Python/3.12.13/x64
+build-and-deploy	Deploy to Cloudflare Pages	2026-07-14T14:54:06.2625671Z   LD_LIBRARY_PATH: /opt/hostedtoolcache/Python/3.12.13/x64/lib
+build-and-deploy	Deploy to Cloudflare Pages	2026-07-14T14:54:06.2625998Z ##[endgroup]
+build-and-deploy	Deploy to Cloudflare Pages	2026-07-14T14:54:06.3510269Z ##[group]🔍 Checking for existing Wrangler installation
+build-and-deploy	Deploy to Cloudflare Pages	2026-07-14T14:54:06.3555431Z [command]/usr/local/bin/npx --no-install wrangler --version
+build-and-deploy	Deploy to Cloudflare Pages	2026-07-14T14:54:10.4342736Z npm error npx canceled due to missing packages and no YES option: ["wrangler@4.110.0"]
+build-and-deploy	Deploy to Cloudflare Pages	2026-07-14T14:54:10.4346410Z npm error A complete log of this run can be found in: /home/runner/.npm/_logs/2026-07-14T14_54_06_599Z-debug-0.log
+build-and-deploy	Deploy to Cloudflare Pages	2026-07-14T14:54:10.4824101Z ⚠️ Wrangler not found or version is incompatible. Installing...
+build-and-deploy	Deploy to Cloudflare Pages	2026-07-14T14:54:10.4825342Z ##[endgroup]
+build-and-deploy	Deploy to Cloudflare Pages	2026-07-14T14:54:10.4826474Z ##[group]📥 Installing Wrangler
+build-and-deploy	Deploy to Cloudflare Pages	2026-07-14T14:54:10.4839542Z [command]/usr/local/bin/npm i wrangler@3.90.0
+build-and-deploy	Deploy to Cloudflare Pages	2026-07-14T14:54:13.8329168Z npm warn deprecated rollup-plugin-inject@3.0.2: This package has been deprecated and is no longer maintained. Please use @rollup/plugin-inject.
+build-and-deploy	Deploy to Cloudflare Pages	2026-07-14T14:54:13.9230959Z npm warn deprecated sourcemap-codec@1.4.8: Please use @jridgewell/sourcemap-codec instead
+build-and-deploy	Deploy to Cloudflare Pages	2026-07-14T14:54:16.8147004Z 
+build-and-deploy	Deploy to Cloudflare Pages	2026-07-14T14:54:16.8148248Z added 70 packages in 6s
+build-and-deploy	Deploy to Cloudflare Pages	2026-07-14T14:54:16.8148962Z 
+build-and-deploy	Deploy to Cloudflare Pages	2026-07-14T14:54:16.8149550Z 11 packages are looking for funding
+build-and-deploy	Deploy to Cloudflare Pages	2026-07-14T14:54:16.8150112Z   run `npm fund` for details
+build-and-deploy	Deploy to Cloudflare Pages	2026-07-14T14:54:16.8422272Z ✅ Wrangler installed
+build-and-deploy	Deploy to Cloudflare Pages	2026-07-14T14:54:16.8429161Z ##[endgroup]
+build-and-deploy	Deploy to Cloudflare Pages	2026-07-14T14:54:16.8444644Z [command]/usr/local/bin/npx --no-install wrangler --version
+build-and-deploy	Deploy to Cloudflare Pages	2026-07-14T14:54:17.5690893Z 3.90.0
+build-and-deploy	Deploy to Cloudflare Pages	2026-07-14T14:54:17.6166763Z ##[group]🚀 Running Wrangler Commands
+build-and-deploy	Deploy to Cloudflare Pages	2026-07-14T14:54:17.6184784Z [command]/usr/local/bin/npx wrangler pages deploy . --project-name=mastertools --branch=main
+build-and-deploy	Deploy to Cloudflare Pages	2026-07-14T14:54:18.3692757Z 
+build-and-deploy	Deploy to Cloudflare Pages	2026-07-14T14:54:18.4247773Z ^[[31m✘ ^[[41;31m[^[[41;97mERROR^[[41;31m]^[[0m ^[[1mIn a non-interactive environment, it's necessary to set a CLOUDFLARE_API_TOKEN environment variable for wrangler to work. Please go to https://developers.cloudflare.com/fundamentals/api/get-started/create-token/ for instructions on how to create an api token, and assign its value to CLOUDFLARE_API_TOKEN.^[[0m
+build-and-deploy	Deploy to Cloudflare Pages	2026-07-14T14:54:18.4249603Z 
+build-and-deploy	Deploy to Cloudflare Pages	2026-07-14T14:54:18.4250420Z 
+build-and-deploy	Deploy to Cloudflare Pages	2026-07-14T14:54:18.4358031Z 🪵  Logs were written to "/home/runner/.config/.wrangler/logs/wrangler-2026-07-14_14-54-18_231.log"
+build-and-deploy	Deploy to Cloudflare Pages	2026-07-14T14:54:18.4686755Z ##[endgroup]
+build-and-deploy	Deploy to Cloudflare Pages	2026-07-14T14:54:18.4713576Z ##[error]The process '/usr/local/bin/npx' failed with exit code 1
+build-and-deploy	Deploy to Cloudflare Pages	2026-07-14T14:54:18.4725995Z ##[error]🚨 Action failed

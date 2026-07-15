@@ -217,7 +217,7 @@ if OR_KEYS:
         ALL_MODELS.append((m, "openrouter"))
 
 # Also inject any role-specific models that aren't already in the list
-PER_CALL_TOKENS = int(os.environ.get("TEAM_MAX_TOKENS", "1500").strip() or "1500")
+PER_CALL_TOKENS = int(os.environ.get("TEAM_MAX_TOKENS", "2000").strip() or "2000")
 
 # ---------------- Specialist roster ----------------
 ROLES = {
@@ -538,15 +538,8 @@ def call_role(role_key, messages, max_tokens):
                 log_event(f"[usage] {usage['provider']} | {usage['model']} | in:{usage['prompt_tokens']} out:{usage['completion_tokens']} total:{usage['total_tokens']}")
             return content
         last_err = err
-        # Log which provider/model was tried and why it failed
-        log_event(f"[{role_key}] tried {provider_type}/{model_name} -> FAILED: {str(err)[:100]}")
 
-    # All models failed - return a helpful error message
-    error_msg = f"[{role_key}] All providers exhausted. Last error: {last_err}"
-    log_event(error_msg)
-    
-    # Return a simple response instead of failing completely
-    return f"I'm currently experiencing rate limits across all providers. Please try again in a few moments. (Model: auto, Provider: multiple tried)"
+    return f"[{role_key}] all models failed: {last_err}"
 
 
 def fetch_urls(text):
